@@ -1,13 +1,13 @@
 import snowflake.connector
 import time
 
+# Gets the version
 con = snowflake.connector.connect(
     user='anuragvuppala',
     password='Snow@Flake44',
     account='VX24548.europe-west2.gcp'
     )
-
-c = con.connect()
+c = con.cursor()
 
 try:
     c.execute("USE DATABASE UK_CRIME_DB")
