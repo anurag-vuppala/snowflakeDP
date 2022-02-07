@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 11a5a227715986a1461944d7f3d6af9a44715f1b4c81e4b00ecbc3950362d49d,2021-04,Dorset Police,Dorset Police,-1.890936,50.765716,On or near Hogue Avenue,E01015301,Bournemouth 001A,Burglary,Investigation complete; no suspect identified
 3341803629c8972262cf62ac56139be28d4df5cfa4c379c6abcb89d764fada05,2021-04,Dorset Police,Dorset Police,-1.89131,50.769826,On or near Emma Close,E01015301,Bournemouth 001A,Other theft,Further investigation is not in the public interest
 c_id_NA,2021-04,Dorset Police,Dorset Police,-1.89955,50.769096,On or near Supermarket,E01015303,Bournemouth 001B,Anti-social behaviour,outcome_not_available

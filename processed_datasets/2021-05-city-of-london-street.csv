@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 903cd5ef21a51282623d04331bfe035ccfb760b74e0142d25b2c9aefea00aa4f,2021-05,City of London Police,City of London Police,-0.109582,51.522017,On or near Clerkenwell Road,E01000916,Camden 027B,Drugs,Formal action is not in the public interest
 9669cbb096412b9b261de94d969854e899a66e9a55558484cf23c2b10e54dcce,2021-05,City of London Police,City of London Police,-0.111962,51.518494,On or near Nightclub,E01000914,Camden 028B,Public order,Formal action is not in the public interest
 26f38118057f6ba3463d846c100117b911f3f7ba012f5af3e48a454e4b8aee3c,2021-05,City of London Police,City of London Police,-0.113256,51.516824,On or near Old Square,E01000914,Camden 028B,Theft from the person,Investigation complete; no suspect identified

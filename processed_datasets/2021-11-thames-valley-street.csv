@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-11,Thames Valley Police,Thames Valley Police,-0.980491,51.999254,On or near Moorhen Way,E01017648,Aylesbury Vale 001A,Anti-social behaviour,outcome_not_available
 06e26779a623566324273fd9ffb5971a71a385b7a636f3260bd5241172bd5367,2021-11,Thames Valley Police,Thames Valley Police,-0.972323,51.99146,On or near Osprey Walk,E01017648,Aylesbury Vale 001A,Criminal damage and arson,Under investigation
 dba95fd55b7df09db44e037fd81377e82d2b96a2d0d98abd4bea2a89018a2cd9,2021-11,Thames Valley Police,Thames Valley Police,-0.970516,51.992128,On or near Lime Avenue,E01017648,Aylesbury Vale 001A,Violence and sexual offences,Under investigation

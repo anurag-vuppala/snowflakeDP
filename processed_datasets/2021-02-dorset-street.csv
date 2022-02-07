@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-02,Dorset Police,Dorset Police,-1.887696,50.768932,On or near Austen Avenue,E01015301,Bournemouth 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-02,Dorset Police,Dorset Police,-1.894945,50.767338,On or near Graycot Close,E01015301,Bournemouth 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-02,Dorset Police,Dorset Police,-1.888833,50.767494,On or near Wimborne Road,E01015301,Bournemouth 001A,Anti-social behaviour,outcome_not_available

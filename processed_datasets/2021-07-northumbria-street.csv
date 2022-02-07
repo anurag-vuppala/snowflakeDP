@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 3f4f51471f1209a60b0ff8d3ff8eaf5051c345ddf7e8fad6c9ccefa3a0359d52,2021-07,Northumbria Police,Northumbria Police,-2.575411,54.991255,On or near B6318,E01019225,Carlisle 002D,Criminal damage and arson,Investigation complete; no suspect identified
 c_id_NA,2021-07,Northumbria Police,Northumbria Police,-1.717457,54.90737,On or near Lobleyhill Road,E01020635,County Durham 001B,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-07,Northumbria Police,Northumbria Police,-1.601538,54.884363,On or near Arisaig,E01020614,County Durham 002B,Anti-social behaviour,outcome_not_available

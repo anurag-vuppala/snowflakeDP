@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c90d873606dc79e7b4e9f02e31b87998e53c1df12218c137bd62ad7e489c2e09,2021-10,Humberside Police,Humberside Police,-0.066618,53.510338,On or near Edinburgh Drive,E01026063,East Lindsey 001D,Violence and sexual offences,Action to be taken by another organisation
 dfec65f3989aad1acff9a1687875aef18bf08aba91040de78403c6ae34f784dd,2021-10,Humberside Police,Humberside Police,-0.176066,54.130054,On or near Clarke Crescent,E01012933,East Riding of Yorkshire 001A,Violence and sexual offences,Under investigation
 c_id_NA,2021-10,Humberside Police,Humberside Police,-0.205171,54.0969,On or near Northfield,E01012934,East Riding of Yorkshire 001B,Anti-social behaviour,outcome_not_available

@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-03,Leicestershire Police,Leicestershire Police,-1.210015,52.62141,On or near Hobill Close,E01025631,Blaby 002A,Anti-social behaviour,outcome_not_available
 d6aa170f22d346877589643f030399e22cf990385fb7b7bfa7758510a35a9f8d,2021-03,Leicestershire Police,Leicestershire Police,-1.214176,52.621663,On or near Lowland Avenue,E01025631,Blaby 002A,Burglary,Investigation complete; no suspect identified
 f35db016e317df79fe1b7410bc316ae5b80ef4dd59257cc15cb28576a314707a,2021-03,Leicestershire Police,Leicestershire Police,-1.21556,52.619443,On or near Lancelot Close,E01025631,Blaby 002A,Other theft,Investigation complete; no suspect identified

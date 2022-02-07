@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-11,Humberside Police,Humberside Police,-0.904639,53.612441,On or near Thorne Waste Drain Road,E01007632,Doncaster 001A,Anti-social behaviour,outcome_not_available
 bc3f2b933fca161b685c2443f1665f19cedce8c6a9adb3261cdb5ee945108273,2021-11,Humberside Police,Humberside Police,-0.181044,54.132422,On or near School Lane,E01012933,East Riding of Yorkshire 001A,Violence and sexual offences,Unable to prosecute suspect
 eaff23b95bbb48ed58246477898b771d641eb4acccd4e86f28132a443eb8eb5b,2021-11,Humberside Police,Humberside Police,-0.188006,54.135286,On or near Main Street,E01012933,East Riding of Yorkshire 001A,Violence and sexual offences,Unable to prosecute suspect

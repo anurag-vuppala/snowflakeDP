@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 48a5d855a72e717723dda846d457f72d7056c72b82e2250e185f80c9d89f1618,2021-07,Gloucestershire Constabulary,Gloucestershire Constabulary,-2.590672,51.48062,On or near Prison,E01014508,Bristol 016B,Violence and sexual offences,Unable to prosecute suspect
 c_id_NA,2021-07,Gloucestershire Constabulary,Gloucestershire Constabulary,-2.088173,51.914532,On or near Thomond Close,E01022163,Cheltenham 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-07,Gloucestershire Constabulary,Gloucestershire Constabulary,-2.086896,51.916107,On or near Supermarket,E01022163,Cheltenham 001A,Anti-social behaviour,outcome_not_available

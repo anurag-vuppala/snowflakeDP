@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-01,Derbyshire Constabulary,Derbyshire Constabulary,-1.371779,53.100971,On or near Wood Street North,E01019400,Amber Valley 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-01,Derbyshire Constabulary,Derbyshire Constabulary,-1.376752,53.101034,On or near Meadow Lane,E01019400,Amber Valley 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-01,Derbyshire Constabulary,Derbyshire Constabulary,-1.375369,53.099579,On or near Priory Road,E01019400,Amber Valley 001A,Anti-social behaviour,outcome_not_available

@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 e9e2404fe2c94cafe22ab87d97ac390442d778c29fe541008212937eab350c8d,2021-04,Suffolk Constabulary,Suffolk Constabulary,-0.66962,50.794702,On or near Coopers Farm Close,E01031434,Arun 014C,Violence and sexual offences,Status update unavailable
 c_id_NA,2021-04,Suffolk Constabulary,Suffolk Constabulary,0.907443,52.107259,On or near Chapel Street,E01029876,Babergh 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-04,Suffolk Constabulary,Suffolk Constabulary,0.913104,52.10962,On or near Brooksfield,E01029876,Babergh 001A,Anti-social behaviour,outcome_not_available

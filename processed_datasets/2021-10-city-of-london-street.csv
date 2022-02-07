@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-10,City of London Police,City of London Police,-0.098572,51.516767,On or near King Edward Street,E01000001,City of London 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-10,City of London Police,City of London Police,-0.097736,51.520206,On or near Conference/Exhibition Centre,E01000001,City of London 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-10,City of London Police,City of London Police,-0.097562,51.518864,On or near Parking Area,E01000001,City of London 001A,Anti-social behaviour,outcome_not_available

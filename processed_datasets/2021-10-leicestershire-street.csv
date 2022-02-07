@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 53966e3955fc3fcaa627535327719312178e24060e541bdd4b843a5c408a22ed,2021-10,Leicestershire Police,Leicestershire Police,-1.212224,52.62343,On or near Willoughby Gardens,E01025631,Blaby 002A,Shoplifting,Local resolution
 c_id_NA,2021-10,Leicestershire Police,Leicestershire Police,-1.216845,52.619442,On or near Merlin Close,E01025632,Blaby 002B,Anti-social behaviour,outcome_not_available
 59c07b38f946c9fb68cb9c1e531f52df51ea64ef82d1b6cb6e1596dc53b8975c,2021-10,Leicestershire Police,Leicestershire Police,-1.225664,52.616057,On or near Yew Close,E01025632,Blaby 002B,Criminal damage and arson,Unable to prosecute suspect

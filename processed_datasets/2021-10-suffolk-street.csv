@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 dfc59c6cc063931dd8c028f61cf04d1c81c4f467982f522ffb0913fe400e2875,2021-10,Suffolk Constabulary,Suffolk Constabulary,0.910947,52.103863,On or near Manor Road,E01029876,Babergh 001A,Burglary,Under investigation
 c0c3b2cfbd7b544fe37ef3095743dbae73bc4d3ffc05cf4f554cdd966ba1f239,2021-10,Suffolk Constabulary,Suffolk Constabulary,0.923473,52.141514,On or near The Drive,E01029876,Babergh 001A,Burglary,Under investigation
 8a23d7ef0fbcf1fb2e79f021fcf46755a3913c560512b733fc41a884bb98dae6,2021-10,Suffolk Constabulary,Suffolk Constabulary,0.907172,52.107572,On or near Duke Street,E01029876,Babergh 001A,Criminal damage and arson,Investigation complete; no suspect identified

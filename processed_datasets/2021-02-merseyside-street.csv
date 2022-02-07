@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 3c1987a22363cf23b3aea825cb752fd2134ac6849c7a701097d4f1a47ea36d85,2021-02,Merseyside Police,Merseyside Police,-3.091328,53.302516,On or near Parking Area,E01018537,Cheshire West and Chester 001D,Possession of weapons,Court result unavailable
 9b79b8b73843e400b501a9759b56893f1f91f8a9a4debc35892a56a6dffc851b,2021-02,Merseyside Police,Merseyside Police,-3.069158,53.314304,On or near Chester High Road,E01018537,Cheshire West and Chester 001D,Violence and sexual offences,Unable to prosecute suspect
 c_id_NA,2021-02,Merseyside Police,Merseyside Police,-2.799977,53.335002,On or near Carriage Close,E01012401,Halton 008C,Anti-social behaviour,outcome_not_available

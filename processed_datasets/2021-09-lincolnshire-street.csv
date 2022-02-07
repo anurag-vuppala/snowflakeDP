@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-09,Lincolnshire Police,Lincolnshire Police,0.068978,52.98191,On or near Upsall Road,E01026007,Boston 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-09,Lincolnshire Police,Lincolnshire Police,0.081863,52.982818,On or near Watery Lane,E01026007,Boston 001A,Anti-social behaviour,outcome_not_available
 6b1e067844b43231eee6f0dbde537a067c270a5b29504ffb7e7aa69c36f3006f,2021-09,Lincolnshire Police,Lincolnshire Police,0.045065,53.013666,On or near Ings Drove,E01026007,Boston 001A,Violence and sexual offences,Under investigation

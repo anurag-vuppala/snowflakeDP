@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-08,British Transport Police,British Transport Police,-0.271604,50.8344,On or near Shoreham-By-Sea (Station),E01031365,Adur 002D,Bicycle theft,outcome_not_available
 c_id_NA,2021-08,British Transport Police,British Transport Police,-0.323543,50.8272,On or near Lancing (Station),E01031342,Adur 008B,Public order,outcome_not_available
 c_id_NA,2021-08,British Transport Police,British Transport Police,-3.16452,54.8294,On or near Wigton (Station),E01019136,Allerdale 001F,Other theft,outcome_not_available

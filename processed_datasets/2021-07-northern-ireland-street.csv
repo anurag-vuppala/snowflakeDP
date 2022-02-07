@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-07,Police Service of Northern Ireland,Police Service of Northern Ireland,-5.896018,54.229479,On or near Carrigs Road,,,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-07,Police Service of Northern Ireland,Police Service of Northern Ireland,-5.824606,54.870866,On or near Cairnbeg Park,,,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-07,Police Service of Northern Ireland,Police Service of Northern Ireland,-6.035149,54.588555,On or near Glenmeen Close,,,Anti-social behaviour,outcome_not_available

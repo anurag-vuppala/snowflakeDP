@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-01,Gloucestershire Constabulary,Gloucestershire Constabulary,-2.088232,51.915054,On or near Windyridge Road,E01022163,Cheltenham 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-01,Gloucestershire Constabulary,Gloucestershire Constabulary,-2.086896,51.916107,On or near Supermarket,E01022163,Cheltenham 001A,Anti-social behaviour,outcome_not_available
 4fd2d527c764528ca8f2e5972600d6c04788c80b73166546b700d1e1ac276610,2021-01,Gloucestershire Constabulary,Gloucestershire Constabulary,-2.088232,51.915054,On or near Windyridge Road,E01022163,Cheltenham 001A,Criminal damage and arson,Investigation complete; no suspect identified

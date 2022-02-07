@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-05,Cheshire Constabulary,Cheshire Constabulary,-2.454197,53.544187,On or near Salford Road,E01004833,Bolton 026C,Anti-social behaviour,outcome_not_available
 6a1085b0be6057860d7f7867da42da6ed5d4d19a00e8c31d305ebbda657e9c82,2021-05,Cheshire Constabulary,Cheshire Constabulary,-2.03674,53.355936,On or near Bentside Road,E01018585,Cheshire East 001A,Violence and sexual offences,Unable to prosecute suspect
 1812f648e1993ebeebbf07cfd01842f9d12c1da60ac623beb4c8276ad07306bc,2021-05,Cheshire Constabulary,Cheshire Constabulary,-2.03674,53.355936,On or near Bentside Road,E01018585,Cheshire East 001A,Violence and sexual offences,Unable to prosecute suspect

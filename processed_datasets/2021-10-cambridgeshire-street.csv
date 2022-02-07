@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 aeea6b906e1c893be04c7f3bb8cf5ba8291b460ff3376bd49b36d091a23b9356,2021-10,Cambridgeshire Constabulary,Cambridgeshire Constabulary,-0.447894,52.311318,On or near Parking Area,E01017540,Bedford 001A,Other theft,Investigation complete; no suspect identified
 34e93a52fde432371f3a196e1230812cd8931554e1fd9e3643a7ffb7eca1af3d,2021-10,Cambridgeshire Constabulary,Cambridgeshire Constabulary,-0.608879,52.236272,On or near Sports/Recreation Area,E01017503,Bedford 002C,Violence and sexual offences,Under investigation
 c_id_NA,2021-10,Cambridgeshire Constabulary,Cambridgeshire Constabulary,-0.303327,52.187273,On or near Parking Area,E01017542,Bedford 004D,Anti-social behaviour,outcome_not_available

@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-07,Derbyshire Constabulary,Derbyshire Constabulary,-1.379742,53.102928,On or near Lydford Road,E01019400,Amber Valley 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-07,Derbyshire Constabulary,Derbyshire Constabulary,-1.377638,53.098647,On or near Mansfield Road,E01019400,Amber Valley 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-07,Derbyshire Constabulary,Derbyshire Constabulary,-1.380324,53.100836,On or near Beech Avenue,E01019400,Amber Valley 001A,Anti-social behaviour,outcome_not_available

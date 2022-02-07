@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 80f01f8b8201dc7b5a8b031e5585f868aecaaed296fef63b2cae37f34fa7fc81,2021-05,Cleveland Police,Cleveland Police,-1.293552,54.477126,On or near Weary Bank,E01027618,Hambleton 002B,Criminal damage and arson,Investigation complete; no suspect identified
 20f4f5005fde0d5abda80741984531979d746b37fff8ec0cfae5bb7db888e975,2021-05,Cleveland Police,Cleveland Police,-1.293552,54.477126,On or near Weary Bank,E01027618,Hambleton 002B,Public order,Investigation complete; no suspect identified
 c_id_NA,2021-05,Cleveland Police,Cleveland Police,-1.235446,54.71119,On or near King Oswy Drive,E01011954,Hartlepool 001A,Anti-social behaviour,outcome_not_available

@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-02,Cumbria Constabulary,Cumbria Constabulary,-3.38203,54.870357,On or near Pennine Close,E01019126,Allerdale 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-02,Cumbria Constabulary,Cumbria Constabulary,-3.389012,54.866296,On or near Bridge View,E01019126,Allerdale 001A,Anti-social behaviour,outcome_not_available
 dd8b3c08c1117edc0d555c886851e472a36a5fbc8454450fd69fc46f2648fce9,2021-02,Cumbria Constabulary,Cumbria Constabulary,-3.388342,54.863554,On or near The Crofts,E01019126,Allerdale 001A,Public order,Unable to prosecute suspect

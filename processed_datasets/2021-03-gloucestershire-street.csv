@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 9297f03c4a7e232aa08bb1fbb45a58278664dd989442ef7fee595b9a65a300c6,2021-03,Gloucestershire Constabulary,Gloucestershire Constabulary,-2.495055,51.422132,On or near Cross Street,E01014399,Bath and North East Somerset 001A,Violence and sexual offences,Unable to prosecute suspect
 8a44cfcf69400a3c2e827ade16d4c5ca75497c2048f57015b4dcbd6512c99867,2021-03,Gloucestershire Constabulary,Gloucestershire Constabulary,-2.608333,51.491868,On or near Henleaze Terrace,E01014618,Bristol 011C,Other theft,Unable to prosecute suspect
 c_id_NA,2021-03,Gloucestershire Constabulary,Gloucestershire Constabulary,-2.088687,51.9174,On or near Ballinode Close,E01022163,Cheltenham 001A,Anti-social behaviour,outcome_not_available

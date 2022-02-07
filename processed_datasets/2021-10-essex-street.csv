@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 30d58f2b1d7d17af0539c8a2aedf4b48863fcf251261025fe0b8db39edd723d2,2021-10,Essex Police,Essex Police,0.43244,51.638525,On or near Parking Area,E01021237,Basildon 001A,Possession of weapons,Further action is not in the public interest
 512d4549a3bdf8ac0b6fb06c5070cfb4bb388aa0da79270b2ff26c16cba00c4b,2021-10,Essex Police,Essex Police,0.43244,51.638525,On or near Parking Area,E01021237,Basildon 001A,Public order,Unable to prosecute suspect
 31407f666b5e587e59f516d2865d0806db981f9e58cfc0f219945f86d18e255f,2021-10,Essex Police,Essex Police,0.43914,51.641641,On or near Derby Close,E01021237,Basildon 001A,Vehicle crime,Investigation complete; no suspect identified

@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 75d78ba86c1c4858bea94de6d17d14b5ae67711200a75ba71861cda8957c5ee1,2021-01,Nottinghamshire Police,Nottinghamshire Police,-1.369867,53.07136,On or near Greenhill Lane,E01019443,Amber Valley 004A,Violence and sexual offences,Status update unavailable
 83fac4e7e70bd21c23cbe96372503bbc9ae190d3b44f33d76eaea0500eb76a1d,2021-01,Nottinghamshire Police,Nottinghamshire Police,-1.374392,53.076283,On or near Chapel Street,E01019470,Amber Valley 004B,Drugs,Status update unavailable
 c_id_NA,2021-01,Nottinghamshire Police,Nottinghamshire Police,-1.345898,53.014077,On or near Starthe Bank,E01019439,Amber Valley 013D,Anti-social behaviour,outcome_not_available

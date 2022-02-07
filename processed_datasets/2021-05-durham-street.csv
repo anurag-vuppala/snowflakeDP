@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 3199b406c35e6989bc2fdc5618740e9f429dbf80b8ce4c96185eee61e7d12268,2021-05,Durham Constabulary,Durham Constabulary,0.15412,51.561849,On or near Gosfield Road,E01000061,Barking and Dagenham 006C,Violence and sexual offences,Status update unavailable
 c39582f4c3ca76d02ed16f0eca55dc90d35d3574f55f599cdf352095ab8554a1,2021-05,Durham Constabulary,Durham Constabulary,0.15412,51.561849,On or near Gosfield Road,E01000061,Barking and Dagenham 006C,Violence and sexual offences,Status update unavailable
 c_id_NA,2021-05,Durham Constabulary,Durham Constabulary,-1.730899,54.907724,On or near The Fold,E01020634,County Durham 001A,Anti-social behaviour,outcome_not_available

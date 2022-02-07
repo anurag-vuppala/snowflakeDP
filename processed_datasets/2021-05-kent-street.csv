@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 dfcedc2d30616f98e6c09c878246818b0f39810955a38562de00aaa46355133b,2021-05,Kent Police,Kent Police,0.962332,51.244504,On or near The Square,E01023987,Ashford 001B,Criminal damage and arson,Investigation complete; no suspect identified
 02393e1de9614b0a48d346d0854ccaa875530edf4e2d26fb95d30d74f1898ca8,2021-05,Kent Police,Kent Police,0.962332,51.244504,On or near The Square,E01023987,Ashford 001B,Criminal damage and arson,Investigation complete; no suspect identified
 fe24f4ed5343a8ecadb37d949ca42f44475cc70f4f55920d603093c853b7e5cf,2021-05,Kent Police,Kent Police,0.968511,51.254106,On or near Cherry Orchard,E01023987,Ashford 001B,Criminal damage and arson,Investigation complete; no suspect identified

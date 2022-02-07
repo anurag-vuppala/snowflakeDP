@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-06,Police Service of Northern Ireland,Police Service of Northern Ireland,-5.678721,54.585467,On or near The Oaks,,,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-06,Police Service of Northern Ireland,Police Service of Northern Ireland,-5.691086,54.600422,On or near North Road,,,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-06,Police Service of Northern Ireland,Police Service of Northern Ireland,-5.930334,54.599189,On or near Castle Street,,,Anti-social behaviour,outcome_not_available

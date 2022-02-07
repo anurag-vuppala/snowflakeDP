@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-03,Dyfed-Powys Police,Dyfed-Powys Police,-4.262645,52.000239,On or near Marshlands,W01000685,Carmarthenshire 001A,Anti-social behaviour,outcome_not_available
 c068b4199fa903dc38fd769fc5a0aa4c5592199f441bb887e8134d2fe3f12a4b,2021-03,Dyfed-Powys Police,Dyfed-Powys Police,-4.267747,52.02996,On or near B4336,W01000685,Carmarthenshire 001A,Other theft,Investigation complete; no suspect identified
 50739ceda5e34dc7e7396c9e4199df6d46f20a6e5edbdc42da9dd33971c8f51d,2021-03,Dyfed-Powys Police,Dyfed-Powys Police,-4.263896,52.00713,On or near B4459,W01000685,Carmarthenshire 001A,Other theft,Status update unavailable

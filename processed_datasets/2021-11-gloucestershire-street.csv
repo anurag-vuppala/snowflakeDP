@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-11,Gloucestershire Constabulary,Gloucestershire Constabulary,-2.0864,51.915127,On or near Windyridge Gardens,E01022163,Cheltenham 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-11,Gloucestershire Constabulary,Gloucestershire Constabulary,-2.089936,51.916887,On or near Linwell Close,E01022163,Cheltenham 001A,Anti-social behaviour,outcome_not_available
 859d7616e6be67a942358d70767a6783aba5526cf36f7aa9819826d771d62c27,2021-11,Gloucestershire Constabulary,Gloucestershire Constabulary,-2.08956,51.91766,On or near Mandarin Way,E01022163,Cheltenham 001A,Burglary,Unable to prosecute suspect

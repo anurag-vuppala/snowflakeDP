@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-05,Gwent Police,Gwent Police,-3.197188,51.794859,On or near Heol Gwyn Lliw,W01001440,Blaenau Gwent 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-05,Gwent Police,Gwent Police,-3.19344,51.800643,On or near Big Lane,W01001440,Blaenau Gwent 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-05,Gwent Police,Gwent Police,-3.192296,51.799638,On or near Twyncynghordy Road,W01001440,Blaenau Gwent 001A,Anti-social behaviour,outcome_not_available

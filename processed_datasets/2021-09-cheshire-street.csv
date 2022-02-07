@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-09,Cheshire Constabulary,Cheshire Constabulary,-2.035011,53.354669,On or near Goyt Road,E01018585,Cheshire East 001A,Anti-social behaviour,outcome_not_available
 ed9d885a4f5345bfae045707f94cb14765f2e9b36f326034df03eca59f34ff66,2021-09,Cheshire Constabulary,Cheshire Constabulary,-2.031482,53.356054,On or near Hanley Close,E01018585,Cheshire East 001A,Burglary,Under investigation
 87555c34854023234634c5fc258f9285d584103debd874a4455646b01a8ffd59,2021-09,Cheshire Constabulary,Cheshire Constabulary,-2.033827,53.358049,On or near Dystelegh Road,E01018585,Cheshire East 001A,Burglary,Investigation complete; no suspect identified

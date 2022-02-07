@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-11,Cleveland Police,Cleveland Police,-1.23711,54.71351,On or near Porrett Close,E01011954,Hartlepool 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-11,Cleveland Police,Cleveland Police,-1.237192,54.712405,On or near Goldsmith Avenue,E01011954,Hartlepool 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-11,Cleveland Police,Cleveland Police,-1.237805,54.711196,On or near King Oswy Shops,E01011954,Hartlepool 001A,Anti-social behaviour,outcome_not_available

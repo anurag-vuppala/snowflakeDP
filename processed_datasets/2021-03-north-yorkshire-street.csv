@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-03,North Yorkshire Police,North Yorkshire Police,-1.862742,53.940068,On or near Smithy Greaves,E01010646,Bradford 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-03,North Yorkshire Police,North Yorkshire Police,-1.847153,53.903937,On or near Parking Area,E01010706,Bradford 006A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-03,North Yorkshire Police,North Yorkshire Police,-2.50035,54.118013,On or near Pye Busk,E01027558,Craven 001A,Anti-social behaviour,outcome_not_available

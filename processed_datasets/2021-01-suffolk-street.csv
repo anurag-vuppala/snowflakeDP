@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 8aa397fad30a08cb9e39359a4076172935a2684fbd685a677820c6bbdbc72787,2021-01,Suffolk Constabulary,Suffolk Constabulary,0.897015,52.125269,On or near Browns Close,E01029876,Babergh 001A,Violence and sexual offences,Unable to prosecute suspect
 f1d014608d02e2e694b6a3e788485d3ffb4dc8f45ec2e7e194002fb69d25c33f,2021-01,Suffolk Constabulary,Suffolk Constabulary,0.789148,52.103428,On or near The Glebe,E01029898,Babergh 001B,Burglary,Investigation complete; no suspect identified
 4d7a44778ca5913f44a2773a7731773abe453ab37c5e4ca3a6b1ab8844019fae,2021-01,Suffolk Constabulary,Suffolk Constabulary,0.794103,52.105361,On or near Parking Area,E01029898,Babergh 001B,Burglary,Investigation complete; no suspect identified

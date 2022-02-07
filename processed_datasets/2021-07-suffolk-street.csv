@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-07,Suffolk Constabulary,Suffolk Constabulary,0.909954,52.108582,On or near Chamberlin Close,E01029876,Babergh 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-07,Suffolk Constabulary,Suffolk Constabulary,0.910944,52.105617,On or near Rotheram Road,E01029876,Babergh 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-07,Suffolk Constabulary,Suffolk Constabulary,0.910215,52.10586,On or near Smock Meadow,E01029876,Babergh 001A,Anti-social behaviour,outcome_not_available

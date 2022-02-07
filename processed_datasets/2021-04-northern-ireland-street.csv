@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-04,Police Service of Northern Ireland,Police Service of Northern Ireland,-7.392365,54.902073,On or near Donaghedy Road,,,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-04,Police Service of Northern Ireland,Police Service of Northern Ireland,-7.465131,54.195025,On or near ,,,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-04,Police Service of Northern Ireland,Police Service of Northern Ireland,-5.908951,54.536608,On or near ,,,Anti-social behaviour,outcome_not_available

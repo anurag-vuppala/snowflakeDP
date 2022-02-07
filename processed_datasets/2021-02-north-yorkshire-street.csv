@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 b692c6e05f9a82182ad1b599a1664380bbeffaf1badaf9f0b9fd4cb6003f6ef6,2021-02,North Yorkshire Police,North Yorkshire Police,-1.862742,53.940068,On or near Smithy Greaves,E01010646,Bradford 001A,Criminal damage and arson,Formal action is not in the public interest
 c_id_NA,2021-02,North Yorkshire Police,North Yorkshire Police,-2.538089,54.117832,On or near Millers Ford,E01027558,Craven 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-02,North Yorkshire Police,North Yorkshire Police,-2.525543,54.12017,On or near Low Bentham Road,E01027558,Craven 001A,Anti-social behaviour,outcome_not_available

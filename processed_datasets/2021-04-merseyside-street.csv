@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-04,Merseyside Police,Merseyside Police,-2.869798,53.489346,On or near Jarrett Road,E01006448,Knowsley 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-04,Merseyside Police,Merseyside Police,-2.868281,53.485915,On or near Sports/Recreation Area,E01006448,Knowsley 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-04,Merseyside Police,Merseyside Police,-2.869654,53.486687,On or near Birbeck Road,E01006448,Knowsley 001A,Anti-social behaviour,outcome_not_available

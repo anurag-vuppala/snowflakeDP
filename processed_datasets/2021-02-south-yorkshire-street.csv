@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-02,South Yorkshire Police,South Yorkshire Police,-1.450844,53.60057,On or near The Lane,E01007434,Barnsley 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-02,South Yorkshire Police,South Yorkshire Police,-1.454931,53.597713,On or near New Street,E01007434,Barnsley 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-02,South Yorkshire Police,South Yorkshire Police,-1.451008,53.601982,On or near Ruston Drive,E01007434,Barnsley 001A,Anti-social behaviour,outcome_not_available

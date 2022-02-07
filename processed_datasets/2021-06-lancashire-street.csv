@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 1de4b6da95a422ca8aecfc92c86998b546cb36eb1b14d4ab0d6d6d64c808fecf,2021-06,Lancashire Constabulary,Lancashire Constabulary,-3.231915,54.116288,On or near Nelson Street,E01019158,Barrow-in-Furness 008E,Violence and sexual offences,Status update unavailable
 c_id_NA,2021-06,Lancashire Constabulary,Lancashire Constabulary,-2.46275,53.763441,On or near Tintern Crescent,E01012607,Blackburn with Darwen 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-06,Lancashire Constabulary,Lancashire Constabulary,-2.465436,53.768994,On or near Ravenscroft Close,E01012607,Blackburn with Darwen 001A,Anti-social behaviour,outcome_not_available

@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-10,Dorset Police,Dorset Police,-1.888833,50.767494,On or near Wimborne Road,E01015301,Bournemouth 001A,Anti-social behaviour,outcome_not_available
 460dc281c58d528dc8318bf07fbdcbadd99d03b06890349e836c13310baa697f,2021-10,Dorset Police,Dorset Police,-1.891809,50.768414,On or near Vernalls Close,E01015301,Bournemouth 001A,Criminal damage and arson,Unable to prosecute suspect
 dfa130221c0e2302e4436984c43b7f0335a3796928b9550ab437fe9f83e9bd45,2021-10,Dorset Police,Dorset Police,-1.888833,50.767494,On or near Wimborne Road,E01015301,Bournemouth 001A,Other theft,Investigation complete; no suspect identified

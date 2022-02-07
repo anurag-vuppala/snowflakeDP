@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 4b9de2f57664e0e87a43cc034cf716a85e9f4bd1c1d64906ff53ca6a4a03e270,2021-05,Dyfed-Powys Police,Dyfed-Powys Police,-3.260723,51.52849,On or near Garth Close,W01001846,Cardiff 006C,Violence and sexual offences,Status update unavailable
 c_id_NA,2021-05,Dyfed-Powys Police,Dyfed-Powys Police,-4.264694,51.962612,On or near Danybryn,W01000685,Carmarthenshire 001A,Anti-social behaviour,outcome_not_available
 573b9b93418190337ac1fe52dab9963a6bbc8b6d322b22125027db8f1f59f47f,2021-05,Dyfed-Powys Police,Dyfed-Powys Police,-4.263896,52.00713,On or near B4459,W01000685,Carmarthenshire 001A,Possession of weapons,Investigation complete; no suspect identified

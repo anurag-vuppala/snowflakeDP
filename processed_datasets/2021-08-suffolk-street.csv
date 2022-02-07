@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-08,Suffolk Constabulary,Suffolk Constabulary,0.893987,52.123868,On or near B1115,E01029876,Babergh 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-08,Suffolk Constabulary,Suffolk Constabulary,0.910944,52.105617,On or near Rotheram Road,E01029876,Babergh 001A,Anti-social behaviour,outcome_not_available
 f99f5c5a5f41375a8d54c57e72bc15307cf15e1b82b7e02b09e632b1e09035e2,2021-08,Suffolk Constabulary,Suffolk Constabulary,0.898082,52.121672,On or near Church Lane,E01029876,Babergh 001A,Criminal damage and arson,Investigation complete; no suspect identified

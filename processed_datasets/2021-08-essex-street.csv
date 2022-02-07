@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 1bfd8e64ebf5e3de7518f142c9b82d8786523e90536600bcc202d393a14aa881,2021-08,Essex Police,Essex Police,0.697253,52.083696,On or near Cranbrook Lane,E01029901,Babergh 003B,Burglary,Investigation complete; no suspect identified
 699dbb750a31fe88b28e3be84752730528fa8994948cbcf669a37b693c2ccaa8,2021-08,Essex Police,Essex Police,0.43588,51.643391,On or near Penwood Close,E01021238,Basildon 001B,Public order,Unable to prosecute suspect
 c_id_NA,2021-08,Essex Police,Essex Police,0.440571,51.625496,On or near Harrods Court,E01021242,Basildon 001C,Anti-social behaviour,outcome_not_available

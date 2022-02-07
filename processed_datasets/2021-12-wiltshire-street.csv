@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 db88f776c7eebc50de1d7fcc7a39050965240011a5b739aa8eb774716965a52b,2021-12,Wiltshire Police,Wiltshire Police,-2.343036,51.396546,On or near Lambridge Street,E01014411,Bath and North East Somerset 004C,Theft from the person,Under investigation
 c_id_NA,2021-12,Wiltshire Police,Wiltshire Police,-2.36032,51.379185,On or near Wine Street,E01014370,Bath and North East Somerset 007A,Anti-social behaviour,outcome_not_available
 33c683362a18f91853744bf760e7474083c14cc78c1e53782d7bc271353261dc,2021-12,Wiltshire Police,Wiltshire Police,-2.107042,51.632971,On or near Crudwell Lane,E01022176,Cotswold 011A,Violence and sexual offences,Under investigation

@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-08,Sussex Police,Sussex Police,-0.227663,50.83604,On or near Orchard Close,E01031349,Adur 001A,Anti-social behaviour,outcome_not_available
 9642611ea36afac326a93355d72bf0d9709ec6197670aad32d5df5cae66d1279,2021-08,Sussex Police,Sussex Police,-0.227395,50.837493,On or near Springate Road,E01031349,Adur 001A,Criminal damage and arson,Investigation complete; no suspect identified
 9082a508974842eb5804998a777046f9fc25cbe92c6286348754cf6bf9566561,2021-08,Sussex Police,Sussex Police,-0.231764,50.837253,On or near Milton Drive,E01031349,Adur 001A,Other theft,Investigation complete; no suspect identified

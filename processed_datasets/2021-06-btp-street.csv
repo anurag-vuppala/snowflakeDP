@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-06,British Transport Police,British Transport Police,-0.323543,50.8272,On or near Lancing (Station),E01031342,Adur 008B,Bicycle theft,outcome_not_available
 c_id_NA,2021-06,British Transport Police,British Transport Police,-3.33204,54.7589,On or near Aspatria (Station),E01019082,Allerdale 003B,Criminal damage and arson,outcome_not_available
 c_id_NA,2021-06,British Transport Police,British Transport Police,-3.55944,54.6445,On or near Workington (Station),E01019121,Allerdale 009E,Public order,outcome_not_available

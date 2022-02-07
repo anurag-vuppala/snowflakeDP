@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-01,Cleveland Police,Cleveland Police,-1.238539,54.710949,On or near Nicholson Way,E01011954,Hartlepool 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-01,Cleveland Police,Cleveland Police,-1.241634,54.711454,On or near Miller Crescent,E01011954,Hartlepool 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-01,Cleveland Police,Cleveland Police,-1.241122,54.712295,On or near Gibson Grove,E01011954,Hartlepool 001A,Anti-social behaviour,outcome_not_available

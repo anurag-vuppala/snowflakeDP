@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-09,Cleveland Police,Cleveland Police,-1.235446,54.71119,On or near King Oswy Drive,E01011954,Hartlepool 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-09,Cleveland Police,Cleveland Police,-1.239958,54.710607,On or near Marshall Close,E01011954,Hartlepool 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-09,Cleveland Police,Cleveland Police,-1.235841,54.712442,On or near Pert Road,E01011954,Hartlepool 001A,Anti-social behaviour,outcome_not_available

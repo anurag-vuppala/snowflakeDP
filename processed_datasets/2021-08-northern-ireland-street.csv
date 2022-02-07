@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-08,Police Service of Northern Ireland,Police Service of Northern Ireland,-5.624636,54.664838,On or near Millicent Park,,,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-08,Police Service of Northern Ireland,Police Service of Northern Ireland,-6.647654,54.349808,On or near Charlemont Gardens,,,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-08,Police Service of Northern Ireland,Police Service of Northern Ireland,-5.953709,54.665015,On or near Collinbridge Road,,,Anti-social behaviour,outcome_not_available

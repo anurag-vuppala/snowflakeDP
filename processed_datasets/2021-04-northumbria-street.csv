@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c40ab277da3985add64a4361e12504d0d8f26b1c3d9393d762fb4be0b5dcab38,2021-04,Northumbria Police,Northumbria Police,-1.717457,54.90737,On or near Lobleyhill Road,E01020635,County Durham 001B,Vehicle crime,Investigation complete; no suspect identified
 c_id_NA,2021-04,Northumbria Police,Northumbria Police,-1.676736,54.903395,On or near Burdon Plain,E01020663,County Durham 004C,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-04,Northumbria Police,Northumbria Police,-1.881118,54.846191,On or near Allensford Bank,E01020637,County Durham 014C,Anti-social behaviour,outcome_not_available

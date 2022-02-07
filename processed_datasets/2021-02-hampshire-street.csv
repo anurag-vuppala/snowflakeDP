@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-02,Hampshire Constabulary,Hampshire Constabulary,-1.147727,51.353443,On or near The Beeches,E01022553,Basingstoke and Deane 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-02,Hampshire Constabulary,Hampshire Constabulary,-1.151682,51.353895,On or near Sandford Road,E01022554,Basingstoke and Deane 001B,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-02,Hampshire Constabulary,Hampshire Constabulary,-1.157668,51.354819,On or near Wigmore Road,E01022554,Basingstoke and Deane 001B,Anti-social behaviour,outcome_not_available

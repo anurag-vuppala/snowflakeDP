@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 4eabbf2685398ca53fdde453b22c5320c2aa15a0ede0f27fc69bb443da600640,2021-06,Cleveland Police,Cleveland Police,-1.390298,54.483422,On or near Piersburgh Lane,E01027592,Hambleton 003B,Other theft,Investigation complete; no suspect identified
 c_id_NA,2021-06,Cleveland Police,Cleveland Police,-1.235446,54.71119,On or near King Oswy Drive,E01011954,Hartlepool 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-06,Cleveland Police,Cleveland Police,-1.240734,54.713937,On or near Speeding Drive,E01011954,Hartlepool 001A,Anti-social behaviour,outcome_not_available

@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-11,Cumbria Constabulary,Cumbria Constabulary,-3.384716,54.868224,On or near Skiddaw Street,E01019126,Allerdale 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-11,Cumbria Constabulary,Cumbria Constabulary,-3.392966,54.87025,On or near Parking Area,E01019126,Allerdale 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-11,Cumbria Constabulary,Cumbria Constabulary,-3.384851,54.860349,On or near B5301,E01019126,Allerdale 001A,Anti-social behaviour,outcome_not_available

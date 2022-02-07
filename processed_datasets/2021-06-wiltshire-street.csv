@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 0def0580ba7c189cb5a1d46a6b37f0554fb10ce0151b71c22f9c50b484f5e64a,2021-06,Wiltshire Police,Wiltshire Police,-0.707197,50.786806,On or near The Spinney,E01031384,Arun 018E,Other theft,Status update unavailable
 c_id_NA,2021-06,Wiltshire Police,Wiltshire Police,-2.358051,51.377529,On or near Parking Area,E01014371,Bath and North East Somerset 007B,Anti-social behaviour,outcome_not_available
 1dafa0fdb086ab5064b3cb2fd6c06a25b766f1dd036449a4fb2e1183b16b3d3b,2021-06,Wiltshire Police,Wiltshire Police,-0.177156,52.095916,On or near High Street,E01017425,Central Bedfordshire 003A,Violence and sexual offences,Investigation complete; no suspect identified

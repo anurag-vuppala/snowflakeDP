@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-06,Cumbria Constabulary,Cumbria Constabulary,-3.386686,54.868884,On or near Wampool Street,E01019126,Allerdale 001A,Anti-social behaviour,outcome_not_available
 46657479130b4732bbf4528a5092fe34a372de9c8566951f56f7c4c42f14060e,2021-06,Cumbria Constabulary,Cumbria Constabulary,-3.38203,54.870357,On or near Pennine Close,E01019126,Allerdale 001A,Burglary,Investigation complete; no suspect identified
 11a387d406577f95dbb7ba54dabd046cf87bd0110233493c1a423a2e5e373e8a,2021-06,Cumbria Constabulary,Cumbria Constabulary,-3.387233,54.868024,On or near Eden Street,E01019126,Allerdale 001A,Criminal damage and arson,Awaiting court outcome

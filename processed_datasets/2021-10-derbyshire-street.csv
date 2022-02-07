@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-10,Derbyshire Constabulary,Derbyshire Constabulary,-1.381917,53.101231,On or near Cedar Avenue,E01019400,Amber Valley 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-10,Derbyshire Constabulary,Derbyshire Constabulary,-1.377638,53.098647,On or near Mansfield Road,E01019400,Amber Valley 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-10,Derbyshire Constabulary,Derbyshire Constabulary,-1.375369,53.099579,On or near Priory Road,E01019400,Amber Valley 001A,Anti-social behaviour,outcome_not_available

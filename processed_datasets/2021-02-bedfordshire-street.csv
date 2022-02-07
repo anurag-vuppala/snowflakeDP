@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 dc0d1e4628625b3add90550b46488a6fe520f97846392eaba42288c628252c78,2021-02,Bedfordshire Police,Bedfordshire Police,-0.267184,51.630775,On or near Springwood Crescent,E01000195,Barnet 013A,Violence and sexual offences,Unable to prosecute suspect
 f7c7fbb9c2a31504637ffb59b1da0adc7a4f01e7bfbbd6c209cf74c1b14f9019,2021-02,Bedfordshire Police,Bedfordshire Police,-0.266387,51.632346,On or near Petrol Station,E01000195,Barnet 013A,Violence and sexual offences,Unable to prosecute suspect
 c_id_NA,2021-02,Bedfordshire Police,Bedfordshire Police,-0.423448,52.250799,On or near Wybridge Close,E01017540,Bedford 001A,Anti-social behaviour,outcome_not_available

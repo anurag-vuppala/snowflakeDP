@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-03,Cheshire Constabulary,Cheshire Constabulary,-2.035011,53.354669,On or near Goyt Road,E01018585,Cheshire East 001A,Anti-social behaviour,outcome_not_available
 2fd1ec560accb322dbc844785404adf299fae91a8e074737ddec1a8ff92c2baa,2021-03,Cheshire Constabulary,Cheshire Constabulary,-2.038409,53.357508,On or near Ring-O-Bells Lane,E01018585,Cheshire East 001A,Violence and sexual offences,Unable to prosecute suspect
 c_id_NA,2021-03,Cheshire Constabulary,Cheshire Constabulary,-2.027684,53.3617,On or near Cloughside,E01018586,Cheshire East 001B,Anti-social behaviour,outcome_not_available

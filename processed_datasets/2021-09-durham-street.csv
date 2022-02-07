@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 d27142b7e0781a2314d50d421bb934a033bf54b578117d864f8a0b8a0e113ba4,2021-09,Durham Constabulary,Durham Constabulary,0.493806,51.566298,On or near Meredene,E01021328,Basildon 022E,Public order,Under investigation
 160726ed24019aafafc3ba743c5c159f4be76bff1fe751032e2f932c070558a4,2021-09,Durham Constabulary,Durham Constabulary,-0.142244,51.549678,On or near Police Station,E01000922,Camden 007E,Violence and sexual offences,Under investigation
 c_id_NA,2021-09,Durham Constabulary,Durham Constabulary,-1.727867,54.906261,On or near Park View,E01020634,County Durham 001A,Anti-social behaviour,outcome_not_available

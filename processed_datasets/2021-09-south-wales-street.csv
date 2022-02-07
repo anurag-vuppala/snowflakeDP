@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-09,South Wales Police,South Wales Police,-3.658207,51.633158,On or near Woodlands Terrace,W01000991,Bridgend 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-09,South Wales Police,South Wales Police,-3.649808,51.638618,On or near North Street,W01000991,Bridgend 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-09,South Wales Police,South Wales Police,-3.658966,51.633363,On or near Dyffryn Road,W01000991,Bridgend 001A,Anti-social behaviour,outcome_not_available

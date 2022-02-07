@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-04,Kent Police,Kent Police,0.962332,51.244504,On or near The Square,E01023987,Ashford 001B,Anti-social behaviour,outcome_not_available
 bbefe6ed3effdf4aac5f35e0109a589e0adcf04b50603ea460546214f947219c,2021-04,Kent Police,Kent Police,0.962332,51.244504,On or near The Square,E01023987,Ashford 001B,Other theft,Investigation complete; no suspect identified
 de48d8c1f339dda61e0c69d1e29d2b6832e9e03dc67569b46b12a86d97883bbb,2021-04,Kent Police,Kent Police,0.959382,51.244093,On or near Parking Area,E01023987,Ashford 001B,Violence and sexual offences,Unable to prosecute suspect

@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-04,Cambridgeshire Constabulary,Cambridgeshire Constabulary,-0.267155,52.207832,On or near Barford Road,E01017542,Bedford 004D,Anti-social behaviour,outcome_not_available
 4129e54d67f8255d6b429ccae5d86e0258dbcd02740e1098762be92b61735ce0,2021-04,Cambridgeshire Constabulary,Cambridgeshire Constabulary,-0.32961,52.234601,On or near Basemead Manor Lane,E01017543,Bedford 004E,Other theft,Investigation complete; no suspect identified
 fe7e97133d3533134454b418f31dcc915f1c3a0bbc0adccabdb2c56935373ce3,2021-04,Cambridgeshire Constabulary,Cambridgeshire Constabulary,-0.478804,52.138192,On or near Guru Ravidass Lane,E01017471,Bedford 012F,Violence and sexual offences,Unable to prosecute suspect

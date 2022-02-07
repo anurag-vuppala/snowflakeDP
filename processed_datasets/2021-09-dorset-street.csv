@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-09,Dorset Police,Dorset Police,-1.891243,50.768081,On or near Vernalls Gardens,E01015301,Bournemouth 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-09,Dorset Police,Dorset Police,-1.888711,50.765237,On or near Northbourne Avenue,E01015301,Bournemouth 001A,Anti-social behaviour,outcome_not_available
 44417a6028e84e7c1809a477a0d85c72d55e67b10a7a9be13fe15ba20060c09d,2021-09,Dorset Police,Dorset Police,-1.888833,50.767494,On or near Wimborne Road,E01015301,Bournemouth 001A,Criminal damage and arson,Investigation complete; no suspect identified

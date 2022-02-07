@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-10,Thames Valley Police,Thames Valley Police,-0.9704,51.993385,On or near Willow Drive,E01017648,Aylesbury Vale 001A,Anti-social behaviour,outcome_not_available
 95d3a087c9abc0a02344df8bd722a8bc028e3fbcd00ccfd707b98945adbec1df,2021-10,Thames Valley Police,Thames Valley Police,-0.969057,51.994165,On or near Bourton Road,E01017648,Aylesbury Vale 001A,Other theft,Investigation complete; no suspect identified
 d5efd083aaa58cbba63667c866aa7a278ec2b5a8cca738f0b6dfb050339bd478,2021-10,Thames Valley Police,Thames Valley Police,-0.970232,51.992467,On or near Sycamore Close,E01017648,Aylesbury Vale 001A,Violence and sexual offences,Unable to prosecute suspect

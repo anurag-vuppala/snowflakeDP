@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-09,Police Service of Northern Ireland,Police Service of Northern Ireland,-6.0354,54.514533,On or near Wesley Street,,,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-09,Police Service of Northern Ireland,Police Service of Northern Ireland,-5.957809,54.514954,On or near Titterington Gardens,,,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-09,Police Service of Northern Ireland,Police Service of Northern Ireland,-7.321304,54.983243,On or near ,,,Anti-social behaviour,outcome_not_available

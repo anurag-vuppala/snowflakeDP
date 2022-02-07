@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 58fa36cf53a2f41269453291638dd512e5daa0b909450552bfc604a178ec7e91,2021-04,Norfolk Constabulary,Norfolk Constabulary,-0.824975,51.808872,On or near Russell Avenue,E01017711,Aylesbury Vale 018C,Violence and sexual offences,Unable to prosecute suspect
 08bea08c76e332172ef2ba2e4f006398d6422406259599f1c491f7f949cf18af,2021-04,Norfolk Constabulary,Norfolk Constabulary,0.419716,51.569181,On or near Wrexham Road,E01021275,Basildon 014B,Drugs,Court result unavailable
 8d0e8def26d2ddd6a8b501cdfd1a3faa5c2595e9b981f337128e98d2264d2f05,2021-04,Norfolk Constabulary,Norfolk Constabulary,0.101495,51.460241,On or near Maxwell Road,E01000409,Bexley 016C,Other crime,Status update unavailable

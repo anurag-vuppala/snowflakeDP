@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-01,Humberside Police,Humberside Police,-0.178762,54.131048,On or near Church Lane,E01012933,East Riding of Yorkshire 001A,Anti-social behaviour,outcome_not_available
 96217b1db2fcb84285029d7ad64c6d234a703b6d29f057d952a6c0d38643aa1a,2021-01,Humberside Police,Humberside Police,-0.178762,54.131048,On or near Church Lane,E01012933,East Riding of Yorkshire 001A,Criminal damage and arson,Unable to prosecute suspect
 60467fd15906b9c94b6309d52e694d892a3fed3f9b9899aaae3f8c123fe228e2,2021-01,Humberside Police,Humberside Police,-0.178762,54.131048,On or near Church Lane,E01012933,East Riding of Yorkshire 001A,Violence and sexual offences,Status update unavailable

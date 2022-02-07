@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 2a2a5dcdea43291d8423faf51f126682a3ec0952f056d13ebac988922a1362ce,2021-02,City of London Police,City of London Police,-0.126437,51.541936,On or near Broadfield Lane,E01000868,Camden 015D,Other crime,Status update unavailable
 dcacb2a19ba6419566086470e7daaf9adc097051b780346e86cb962748a27185,2021-02,City of London Police,City of London Police,-0.109582,51.522017,On or near Clerkenwell Road,E01000916,Camden 027B,Drugs,Awaiting court outcome
 c_id_NA,2021-02,City of London Police,City of London Police,-0.097601,51.520699,On or near Carthusian Street,E01000001,City of London 001A,Anti-social behaviour,outcome_not_available

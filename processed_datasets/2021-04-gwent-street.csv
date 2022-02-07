@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 7138ca2df49e35eb504b4cf81b564c1b92b682bbd72382c07d86004cb6be169d,2021-04,Gwent Police,Gwent Police,-1.936619,52.506771,On or near Linwood Road,E01009350,Birmingham 039B,Other theft,Status update unavailable
 c_id_NA,2021-04,Gwent Police,Gwent Police,-3.197188,51.794859,On or near Heol Gwyn Lliw,W01001440,Blaenau Gwent 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-04,Gwent Police,Gwent Police,-3.19344,51.800643,On or near Big Lane,W01001440,Blaenau Gwent 001A,Anti-social behaviour,outcome_not_available

@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-02,Northumbria Police,Northumbria Police,-1.717457,54.90737,On or near Lobleyhill Road,E01020635,County Durham 001B,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-02,Northumbria Police,Northumbria Police,-1.79827,54.902624,On or near Forge Lane,E01020655,County Durham 003D,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-02,Northumbria Police,Northumbria Police,-1.676736,54.903395,On or near Burdon Plain,E01020663,County Durham 004C,Anti-social behaviour,outcome_not_available

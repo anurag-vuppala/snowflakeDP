@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 63c01adbecdf3272c74ede3a0176071c3440301295fe27e400dddb492faba489,2021-05,Cambridgeshire Constabulary,Cambridgeshire Constabulary,0.071603,51.541762,On or near Crows Road,E01000008,Barking and Dagenham 015B,Violence and sexual offences,Status update unavailable
 c_id_NA,2021-05,Cambridgeshire Constabulary,Cambridgeshire Constabulary,-0.502529,52.315494,On or near Park/Open Space,E01017540,Bedford 001A,Anti-social behaviour,outcome_not_available
 00f9e4bc6cb685ba94b3810b82e40fdddd6eba7d31b2b44699ce174e73d47882,2021-05,Cambridgeshire Constabulary,Cambridgeshire Constabulary,-0.402521,52.282391,On or near Park Lane,E01017540,Bedford 001A,Burglary,Investigation complete; no suspect identified

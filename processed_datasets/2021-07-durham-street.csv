@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-07,Durham Constabulary,Durham Constabulary,-1.737046,54.907449,On or near Valley View,E01020634,County Durham 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-07,Durham Constabulary,Durham Constabulary,-1.727867,54.906261,On or near Park View,E01020634,County Durham 001A,Anti-social behaviour,outcome_not_available
 37c490580c2cca8ff2a82f7c6dbd391530dfb9b2202b78ec90e75499ee210cff,2021-07,Durham Constabulary,Durham Constabulary,-1.735064,54.895727,On or near The Meadows,E01020634,County Durham 001A,Other theft,Investigation complete; no suspect identified

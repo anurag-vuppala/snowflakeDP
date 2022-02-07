@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 f36d05e1fc2ffc099107ba4bf6be47d6599fea305d23ae95553c61c7edbdde04,2021-04,North Wales Police,North Wales Police,-2.92015,53.179469,On or near High Street,E01018332,Cheshire West and Chester 043A,Criminal damage and arson,Investigation complete; no suspect identified
 c_id_NA,2021-04,North Wales Police,North Wales Police,-3.816662,53.316803,On or near Kingsway,W01000132,Conwy 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-04,North Wales Police,North Wales Police,-3.809637,53.320371,On or near Primrose Passage,W01000132,Conwy 001A,Anti-social behaviour,outcome_not_available

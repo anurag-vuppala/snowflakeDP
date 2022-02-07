@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-12,South Yorkshire Police,South Yorkshire Police,-1.395616,53.052967,On or near Petrol Station,E01019456,Amber Valley 005E,Anti-social behaviour,outcome_not_available
 1056cf35ed8b464065cf3dc7a7ba48ee2890fbe5752dbf306aa54365d746d3f3,2021-12,South Yorkshire Police,South Yorkshire Police,-1.449981,53.603074,On or near Arundel Gardens,E01007434,Barnsley 001A,Burglary,Investigation complete; no suspect identified
 f323e28d93476acf415f65dea6c8f1847ef3c5d1a98114f26c48735fed800204,2021-12,South Yorkshire Police,South Yorkshire Police,-1.457308,53.596178,On or near Hollycroft Avenue,E01007434,Barnsley 001A,Criminal damage and arson,Under investigation

@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-10,Gloucestershire Constabulary,Gloucestershire Constabulary,-2.086896,51.916107,On or near Supermarket,E01022163,Cheltenham 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-10,Gloucestershire Constabulary,Gloucestershire Constabulary,-2.08874,51.914793,On or near Pedestrian Subway,E01022163,Cheltenham 001A,Anti-social behaviour,outcome_not_available
 002bcabfbf8a4b1e930af0afc9826b04cd1d28f1e9ac041bb548ef0b689b869a,2021-10,Gloucestershire Constabulary,Gloucestershire Constabulary,-2.08956,51.91766,On or near Mandarin Way,E01022163,Cheltenham 001A,Burglary,Investigation complete; no suspect identified

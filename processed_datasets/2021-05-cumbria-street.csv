@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-05,Cumbria Constabulary,Cumbria Constabulary,-3.384716,54.868224,On or near Skiddaw Street,E01019126,Allerdale 001A,Anti-social behaviour,outcome_not_available
 ce506529c7a9dd92ac09b3226bae7f02f67ca282be204524c21128d12543ab38,2021-05,Cumbria Constabulary,Cumbria Constabulary,-3.387233,54.868024,On or near Eden Street,E01019126,Allerdale 001A,Burglary,Investigation complete; no suspect identified
 d8b4e024a3786ac0f32dfb91f1706864a948b585e1dc3ce536370dc87a8a8c5d,2021-05,Cumbria Constabulary,Cumbria Constabulary,-3.38203,54.870357,On or near Pennine Close,E01019126,Allerdale 001A,Criminal damage and arson,Investigation complete; no suspect identified

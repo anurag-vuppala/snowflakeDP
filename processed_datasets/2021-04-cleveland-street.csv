@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-04,Cleveland Police,Cleveland Police,-1.235446,54.71119,On or near King Oswy Drive,E01011954,Hartlepool 001A,Anti-social behaviour,outcome_not_available
 1d52d884a1541853908cb704f76a6905a6ab145cd3bfc80533be6c411bb167ee,2021-04,Cleveland Police,Cleveland Police,-1.237805,54.711196,On or near King Oswy Shops,E01011954,Hartlepool 001A,Criminal damage and arson,Investigation complete; no suspect identified
 a5451a3c7c0a3bb6b422779eb32a1de3aa758a4ee3eca010abeebac78f5ffcd0,2021-04,Cleveland Police,Cleveland Police,-1.236116,54.711859,On or near Whitrout Road,E01011954,Hartlepool 001A,Criminal damage and arson,Investigation complete; no suspect identified

@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-12,Nottinghamshire Police,Nottinghamshire Police,-1.347594,53.062781,On or near Openacre,E01019444,Amber Valley 003B,Anti-social behaviour,outcome_not_available
 518afac467f6b368ceaa89edd0c6e303784f3e9328a62c5828ed50affb3e0220,2021-12,Nottinghamshire Police,Nottinghamshire Police,-1.36422,53.074764,On or near Windmill Rise,E01019469,Amber Valley 003D,Violence and sexual offences,Under investigation
 64396644211d96be91d01541930dcf461111f097215251a5b9d8b865b674e499,2021-12,Nottinghamshire Police,Nottinghamshire Police,-1.36759,53.072912,On or near Sports/Recreation Area,E01019443,Amber Valley 004A,Drugs,Under investigation

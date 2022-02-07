@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-02,Cheshire Constabulary,Cheshire Constabulary,-2.025696,53.353728,On or near Corks Lane,E01018585,Cheshire East 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-02,Cheshire Constabulary,Cheshire Constabulary,-2.012417,53.359096,On or near Maple Avenue,E01018586,Cheshire East 001B,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-02,Cheshire Constabulary,Cheshire Constabulary,-2.056698,53.338023,On or near Parking Area,E01018586,Cheshire East 001B,Anti-social behaviour,outcome_not_available

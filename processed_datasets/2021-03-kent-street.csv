@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 7abd924910c21067ac9f622c792225288ecdbe6ee99cca5bfcc732c04b3ed9b3,2021-03,Kent Police,Kent Police,0.957949,51.259716,On or near New Forest Lane,E01023987,Ashford 001B,Other theft,Investigation complete; no suspect identified
 a0827699727b98df5d0838a08010700d88619c0f49dd2af14850cc1963a7699d,2021-03,Kent Police,Kent Police,0.968511,51.254106,On or near Cherry Orchard,E01023987,Ashford 001B,Other theft,Unable to prosecute suspect
 c61598c67b658f97a84d82aad6a4cfd5ea519bdb442208bc261eb9e83105c972,2021-03,Kent Police,Kent Police,0.968272,51.255956,On or near Green Lane,E01023987,Ashford 001B,Violence and sexual offences,Local resolution

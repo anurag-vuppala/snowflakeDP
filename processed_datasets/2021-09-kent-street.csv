@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 4c0e59335e9f21e9c0a65cbe8a618f911cb4fef99be43bd09cc8db811d9c5fd5,2021-09,Kent Police,Kent Police,0.964269,51.258117,On or near Shrimpton Close,E01023987,Ashford 001B,Criminal damage and arson,Investigation complete; no suspect identified
 2dc3c9981be95ab6abfc46ac85caa967b26ece466a540a026ac450b6fe02d77b,2021-09,Kent Police,Kent Police,0.959382,51.244093,On or near Parking Area,E01023987,Ashford 001B,Other theft,Investigation complete; no suspect identified
 995e85d2b0522dd43ad9f1301cd153261c5d4974520a12e48fdce35824b4798d,2021-09,Kent Police,Kent Police,0.967053,51.244816,On or near Felborough Close,E01023987,Ashford 001B,Violence and sexual offences,Unable to prosecute suspect

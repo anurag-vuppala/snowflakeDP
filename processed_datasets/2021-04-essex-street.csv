@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 89d45f4a6f1592a90164d37a8aa1578a30abf99c9ee0b1d44c44beb42853be4a,2021-04,Essex Police,Essex Police,0.70951,52.062416,On or near Ropers Lane,E01029901,Babergh 003B,Burglary,Investigation complete; no suspect identified
 5860830c7df3ab405701f83f7672a9c9a026a86198b07f614901624992fe0bca,2021-04,Essex Police,Essex Police,0.440629,51.639767,On or near Martingale Close,E01021237,Basildon 001A,Burglary,Investigation complete; no suspect identified
 e04cee3ab5c45b6202789ec5ad142a372965afccc959e10ef0fc99e04316ecb4,2021-04,Essex Police,Essex Police,0.440629,51.639767,On or near Martingale Close,E01021237,Basildon 001A,Burglary,Investigation complete; no suspect identified

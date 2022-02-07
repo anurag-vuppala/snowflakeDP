@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-04,Nottinghamshire Police,Nottinghamshire Police,-1.361454,53.089186,On or near Clover Nook Road,E01019468,Amber Valley 003C,Anti-social behaviour,outcome_not_available
 a0cbbe88482b83e703a7fd604874f256caf123fe13943dde469b8ff29a468c52,2021-04,Nottinghamshire Police,Nottinghamshire Police,-1.361981,53.018147,On or near Loscoe Road,E01019433,Amber Valley 012B,Violence and sexual offences,Unable to prosecute suspect
 75a6215ebd0fa6d0d411d11aedb6ac32e3eb9d92cfccf95e5272dde9133e5fe6,2021-04,Nottinghamshire Police,Nottinghamshire Police,-1.329102,53.024519,On or near Minkley Drive,E01019451,Amber Valley 012D,Drugs,Investigation complete; no suspect identified

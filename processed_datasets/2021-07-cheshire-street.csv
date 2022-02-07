@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-07,Cheshire Constabulary,Cheshire Constabulary,-2.488823,53.555313,On or near M61,E01004899,Bolton 030C,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-07,Cheshire Constabulary,Cheshire Constabulary,-2.032878,53.354499,On or near Elizabeth Avenue,E01018585,Cheshire East 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-07,Cheshire Constabulary,Cheshire Constabulary,-2.035011,53.354669,On or near Goyt Road,E01018585,Cheshire East 001A,Anti-social behaviour,outcome_not_available

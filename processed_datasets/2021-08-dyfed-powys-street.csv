@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-08,Dyfed-Powys Police,Dyfed-Powys Police,-4.264037,51.997506,On or near Maes Cader,W01000685,Carmarthenshire 001A,Anti-social behaviour,outcome_not_available
 0de74c1cf7068cffacc06825e465605348438aeb0cd11ef6c8fc473a7a07920c,2021-08,Dyfed-Powys Police,Dyfed-Powys Police,-4.266117,51.998302,On or near Davies Street,W01000685,Carmarthenshire 001A,Criminal damage and arson,Investigation complete; no suspect identified
 9615b1d0c017986716cb9aefc8cff1f5a2d49b03e7533b29ebdebb56f9512b90,2021-08,Dyfed-Powys Police,Dyfed-Powys Police,-4.266117,51.998302,On or near Davies Street,W01000685,Carmarthenshire 001A,Criminal damage and arson,Investigation complete; no suspect identified

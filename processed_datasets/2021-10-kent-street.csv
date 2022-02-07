@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-10,Kent Police,Kent Police,0.968511,51.254106,On or near Cherry Orchard,E01023987,Ashford 001B,Anti-social behaviour,outcome_not_available
 7fc4b3cc5c25a05e7b4ed7f051695eccf6ca1a48667224862ea32da39bb4c2a2,2021-10,Kent Police,Kent Police,0.965899,51.244036,On or near Herons Close,E01023987,Ashford 001B,Burglary,Investigation complete; no suspect identified
 63f1003ebd9a2107f4c920d274a0e8a9cbcf19900d504b3cf3917a288fadb61d,2021-10,Kent Police,Kent Police,0.972125,51.243914,On or near Bagham Lane,E01023987,Ashford 001B,Criminal damage and arson,Investigation complete; no suspect identified

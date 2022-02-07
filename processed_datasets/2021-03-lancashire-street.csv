@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 02431b01d11109645bde18248013916e977f750499dd24ff432393df59751370,2021-03,Lancashire Constabulary,Lancashire Constabulary,-0.54899,50.813769,On or near Harwood Road,E01031427,Arun 004A,Violence and sexual offences,Unable to prosecute suspect
 b585f8596022d6be8814f3b9167b1ad0afcad5d3185007a67fdfa6b9cb99ae59,2021-03,Lancashire Constabulary,Lancashire Constabulary,-1.203564,52.643923,On or near Carpenter'S Close,E01025624,Blaby 013C,Violence and sexual offences,Unable to prosecute suspect
 c_id_NA,2021-03,Lancashire Constabulary,Lancashire Constabulary,-2.461766,53.762222,On or near Fountains Avenue,E01012607,Blackburn with Darwen 001A,Anti-social behaviour,outcome_not_available

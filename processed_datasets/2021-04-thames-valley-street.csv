@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-04,Thames Valley Police,Thames Valley Police,-0.977083,51.995404,On or near Otters Brook,E01017648,Aylesbury Vale 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-04,Thames Valley Police,Thames Valley Police,-0.975257,51.993742,On or near Lark Close,E01017648,Aylesbury Vale 001A,Anti-social behaviour,outcome_not_available
 ec28aed49df5f2b9116d4d228253c9fbdb84b091565dd5942e9f2413586e3512,2021-04,Thames Valley Police,Thames Valley Police,-0.981671,51.998626,On or near Treefields,E01017648,Aylesbury Vale 001A,Criminal damage and arson,Unable to prosecute suspect

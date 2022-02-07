@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-02,Sussex Police,Sussex Police,-0.221144,50.836049,On or near Manor Close,E01031349,Adur 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-02,Sussex Police,Sussex Police,-0.22852,50.834398,On or near Sports/Recreation Area,E01031349,Adur 001A,Anti-social behaviour,outcome_not_available
 df4d7835f76b9f599c88778456e2c6197fc3191bc2aaaa7d8cc363145731fb14,2021-02,Sussex Police,Sussex Police,-0.231764,50.837253,On or near Milton Drive,E01031349,Adur 001A,Criminal damage and arson,Investigation complete; no suspect identified

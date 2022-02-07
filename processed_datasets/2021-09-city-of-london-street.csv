@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 e89473ecc5a5933dea51b936bb507993d08a77ff1cdefff27686dabc32765c88,2021-09,City of London Police,City of London Police,-0.120975,51.530644,On or near King'S Cross Bridge,E01000938,Camden 024B,Drugs,Awaiting court outcome
 82ceffcacc4f42448e00db71e7ba66692ee28bc76226878f1be8a4048eb876a1,2021-09,City of London Police,City of London Police,-0.106453,51.518207,On or near Charterhouse Street,E01000916,Camden 027B,Theft from the person,Investigation complete; no suspect identified
 09d9049aa314c5f67f8dcb2a4c7bbe7c10c2fa6cc6bffaaa181341ac791d784e,2021-09,City of London Police,City of London Police,-0.113256,51.516824,On or near Old Square,E01000914,Camden 028B,Criminal damage and arson,Under investigation

@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-01,Merseyside Police,Merseyside Police,-3.069158,53.314304,On or near Chester High Road,E01018537,Cheshire West and Chester 001D,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-01,Merseyside Police,Merseyside Police,-2.869972,53.48824,On or near Roman Way,E01006448,Knowsley 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-01,Merseyside Police,Merseyside Police,-2.869654,53.486687,On or near Birbeck Road,E01006448,Knowsley 001A,Anti-social behaviour,outcome_not_available

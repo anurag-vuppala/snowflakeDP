@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-03,Cleveland Police,Cleveland Police,-1.235446,54.71119,On or near King Oswy Drive,E01011954,Hartlepool 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-03,Cleveland Police,Cleveland Police,-1.235841,54.712442,On or near Pert Road,E01011954,Hartlepool 001A,Anti-social behaviour,outcome_not_available
 6342f7dab632d449a352480753af7194d7a70a310132e4f4ed12051b84e9581a,2021-03,Cleveland Police,Cleveland Police,-1.241122,54.712295,On or near Gibson Grove,E01011954,Hartlepool 001A,Possession of weapons,Formal action is not in the public interest

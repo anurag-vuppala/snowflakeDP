@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-05,Police Service of Northern Ireland,Police Service of Northern Ireland,-5.907604,54.661541,On or near Whitehouse Park,,,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-05,Police Service of Northern Ireland,Police Service of Northern Ireland,,,No Location,,,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-05,Police Service of Northern Ireland,Police Service of Northern Ireland,-5.930316,54.586421,On or near Wolseley Street,,,Anti-social behaviour,outcome_not_available

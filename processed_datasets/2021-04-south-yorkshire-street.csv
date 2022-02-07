@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-04,South Yorkshire Police,South Yorkshire Police,-1.395616,53.052967,On or near Petrol Station,E01019456,Amber Valley 005E,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-04,South Yorkshire Police,South Yorkshire Police,-1.449981,53.603074,On or near Arundel Gardens,E01007434,Barnsley 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-04,South Yorkshire Police,South Yorkshire Police,-1.454931,53.597713,On or near New Street,E01007434,Barnsley 001A,Anti-social behaviour,outcome_not_available

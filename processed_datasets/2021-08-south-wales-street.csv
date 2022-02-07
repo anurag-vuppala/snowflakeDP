@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 14ba56dde1817587fdfe0244ff0f014c478e3e7f3f541ad4551a683d753a85a9,2021-08,South Wales Police,South Wales Police,-3.175325,51.798919,On or near Beaufort Street,W01001448,Blaenau Gwent 002C,Violence and sexual offences,Unable to prosecute suspect
 e357ff01ca4b816dd0f1168c3e63bd1e5e0c14111e8211b46bd4c9d3a474f76f,2021-08,South Wales Police,South Wales Police,-3.179118,51.799241,On or near King Street,W01001449,Blaenau Gwent 002D,Violence and sexual offences,Under investigation
 c_id_NA,2021-08,South Wales Police,South Wales Police,-3.658828,51.634723,On or near Tudor Estate,W01000991,Bridgend 001A,Anti-social behaviour,outcome_not_available

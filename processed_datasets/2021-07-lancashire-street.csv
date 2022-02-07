@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 4de9dfb1ed56d77b341af38a708e4cc607e68d4741acac29194ac455748f13a8,2021-07,Lancashire Constabulary,Lancashire Constabulary,-3.231915,54.116288,On or near Nelson Street,E01019158,Barrow-in-Furness 008E,Violence and sexual offences,Status update unavailable
 c_id_NA,2021-07,Lancashire Constabulary,Lancashire Constabulary,-2.464578,53.765519,On or near Hazelwood Close,E01012607,Blackburn with Darwen 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-07,Lancashire Constabulary,Lancashire Constabulary,-2.451775,53.762754,On or near Trident Way,E01012607,Blackburn with Darwen 001A,Anti-social behaviour,outcome_not_available

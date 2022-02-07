@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-11,Cheshire Constabulary,Cheshire Constabulary,-0.134592,51.5273,On or near Melton Street,E01000945,Camden 023B,Anti-social behaviour,outcome_not_available
 fcf0019e3ba11f8c456e963a79dec2bb7e9699ce22200a469b9b2708f5b445df,2021-11,Cheshire Constabulary,Cheshire Constabulary,-2.029528,53.355848,On or near Sheardhall Avenue,E01018585,Cheshire East 001A,Burglary,Investigation complete; no suspect identified
 2c86cf50da1cc4867746224738b0f5abb8486e9c85d0109aa008532d85ac5ae9,2021-11,Cheshire Constabulary,Cheshire Constabulary,-2.033827,53.358049,On or near Dystelegh Road,E01018585,Cheshire East 001A,Possession of weapons,Unable to prosecute suspect

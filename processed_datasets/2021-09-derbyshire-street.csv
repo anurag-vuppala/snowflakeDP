@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-09,Derbyshire Constabulary,Derbyshire Constabulary,-1.372154,53.099823,On or near Wood Street,E01019400,Amber Valley 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-09,Derbyshire Constabulary,Derbyshire Constabulary,-1.374912,53.10328,On or near Tavistock Square,E01019400,Amber Valley 001A,Anti-social behaviour,outcome_not_available
 1aaddb57ea8259e833177e6756d88575c9ed31b03b0cfb8f32ef621419acef61,2021-09,Derbyshire Constabulary,Derbyshire Constabulary,-1.373564,53.099408,On or near Catherine Street,E01019400,Amber Valley 001A,Criminal damage and arson,Investigation complete; no suspect identified

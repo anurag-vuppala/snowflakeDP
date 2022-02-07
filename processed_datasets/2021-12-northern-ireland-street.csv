@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-12,Police Service of Northern Ireland,Police Service of Northern Ireland,-5.924968,54.600625,On or near High Street,,,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-12,Police Service of Northern Ireland,Police Service of Northern Ireland,-6.927191,55.043681,On or near Janes Valley,,,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-12,Police Service of Northern Ireland,Police Service of Northern Ireland,-6.442641,54.379078,On or near Tandragee Road,,,Anti-social behaviour,outcome_not_available

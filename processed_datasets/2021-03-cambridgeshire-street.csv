@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 ad1a90df5838b44c8b9d49b4b081d34bb7f10bb8b8eed565ff38df67fcec3e00,2021-03,Cambridgeshire Constabulary,Cambridgeshire Constabulary,-0.270013,52.208108,On or near Alington Road,E01017542,Bedford 004D,Drugs,Local resolution
 1e602fbb862e232130c2d7542cb55d86ba8e239fc19e91687d5365ede6756465,2021-03,Cambridgeshire Constabulary,Cambridgeshire Constabulary,-0.270013,52.208108,On or near Alington Road,E01017542,Bedford 004D,Drugs,Local resolution
 c_id_NA,2021-03,Cambridgeshire Constabulary,Cambridgeshire Constabulary,-0.293103,52.206322,On or near Sandpiper Close,E01017543,Bedford 004E,Anti-social behaviour,outcome_not_available

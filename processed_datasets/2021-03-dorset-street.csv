@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-03,Dorset Police,Dorset Police,-1.897285,50.767259,On or near Howton Close,E01015301,Bournemouth 001A,Anti-social behaviour,outcome_not_available
 5646cbdd691525d75b8950807409991946baed9b804f4edb8760e783f85ab217,2021-03,Dorset Police,Dorset Police,-1.894945,50.767338,On or near Graycot Close,E01015301,Bournemouth 001A,Vehicle crime,Investigation complete; no suspect identified
 84de244af27e6e571e2fddcb8ee3e87d331cfe196099a5545c4e2cbcc4ca19d7,2021-03,Dorset Police,Dorset Police,-1.892935,50.765799,On or near Ferncroft Gardens,E01015301,Bournemouth 001A,Vehicle crime,Investigation complete; no suspect identified

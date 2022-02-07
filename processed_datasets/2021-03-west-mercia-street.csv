@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 46e309e5d24c656abe1142f50d514a4c561ced8a53277fe206d095a63accf1c2,2021-03,West Mercia Police,West Mercia Police,-1.23456,53.080266,On or near Warren Avenue,E01027997,Ashfield 010C,Violence and sexual offences,Status update unavailable
 3752ef01114a3cdcf673e4116085bbc7cabbde3d1c8214baa837f3d6fb113bf6,2021-03,West Mercia Police,West Mercia Police,-2.350423,51.392676,On or near London Road,E01014467,Bath and North East Somerset 006C,Other crime,Court result unavailable
 bf59a0c648711c3bec32010f53ec244254a4705c9e4bbe36b6e96d206e5217da,2021-03,West Mercia Police,West Mercia Police,-0.518081,52.165971,On or near Lovell Road,E01017528,Bedford 003E,Other theft,Investigation complete; no suspect identified

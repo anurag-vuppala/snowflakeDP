@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 879b4a9f5a7804c8ee298baba90973d2776e3a64563bf01b754bf8b5a4e41496,2021-10,Northumbria Police,Northumbria Police,-2.575411,54.991255,On or near B6318,E01019225,Carlisle 002D,Public order,Under investigation
 f3d0197e2b30f7d4d117f78fa2119c7811e6addde11362f80ffee07158ced91d,2021-10,Northumbria Police,Northumbria Police,-1.56913,54.880092,On or near Vigo Lane,E01020611,County Durham 007D,Other theft,Investigation complete; no suspect identified
 c_id_NA,2021-10,Northumbria Police,Northumbria Police,-1.749143,54.971125,On or near Church Rise,E01008246,Gateshead 001A,Anti-social behaviour,outcome_not_available

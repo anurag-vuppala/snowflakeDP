@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 7f8a257001e8f6a77db051cce732dd5c8cdbc36710a751da0c3a08507d2b6904,2021-02,Lancashire Constabulary,Lancashire Constabulary,-1.498333,53.085023,On or near The Green,E01019423,Amber Valley 002B,Violence and sexual offences,Unable to prosecute suspect
 f205fb1af0342ad2a9c63c93d74f08199cc20ed404dbb20521a9514d1970b5ec,2021-02,Lancashire Constabulary,Lancashire Constabulary,-0.533644,50.812453,On or near Dorset Close,E01031455,Arun 009D,Other crime,Status update unavailable
 c_id_NA,2021-02,Lancashire Constabulary,Lancashire Constabulary,-2.466322,53.768181,On or near Bank Hey Close,E01012607,Blackburn with Darwen 001A,Anti-social behaviour,outcome_not_available

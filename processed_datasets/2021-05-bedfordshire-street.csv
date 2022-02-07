@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 7bcece504c3d79525bac8a92bbea101567504c0b148f707638d9a6a0b397daf2,2021-05,Bedfordshire Police,Bedfordshire Police,-0.26245,51.610976,On or near Walter Walk,E01000226,Barnet 018D,Burglary,Status update unavailable
 c_id_NA,2021-05,Bedfordshire Police,Bedfordshire Police,-0.472054,52.301536,On or near Shelton Road,E01017540,Bedford 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-05,Bedfordshire Police,Bedfordshire Police,-0.467024,52.29729,On or near Church Lane,E01017540,Bedford 001A,Anti-social behaviour,outcome_not_available

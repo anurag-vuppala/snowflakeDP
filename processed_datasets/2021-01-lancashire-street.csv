@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 83c69c5a0b5382a10e1d975ba469d9efa5d30b974c711f108d294f4b7d133bcd,2021-01,Lancashire Constabulary,Lancashire Constabulary,-1.544565,53.072929,On or near Bent Lane,E01019405,Amber Valley 007A,Burglary,Investigation complete; no suspect identified
 7c5f98091f30fc15cf44a524e0c5b0e28a55b56b119d2efe593bc3d8b8365d77,2021-01,Lancashire Constabulary,Lancashire Constabulary,-3.191527,54.115796,On or near Sedgefield Road,E01019177,Barrow-in-Furness 006C,Violence and sexual offences,Investigation complete; no suspect identified
 c_id_NA,2021-01,Lancashire Constabulary,Lancashire Constabulary,-2.463266,53.769029,On or near Oakwood Avenue,E01012607,Blackburn with Darwen 001A,Anti-social behaviour,outcome_not_available

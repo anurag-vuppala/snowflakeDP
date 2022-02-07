@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 b33a5c1572b6cd9d3a1d2572a670e0832b28f4828ec35704013b6a2c2e24cf8c,2021-09,Essex Police,Essex Police,0.43914,51.641641,On or near Derby Close,E01021237,Basildon 001A,Burglary,Investigation complete; no suspect identified
 dc164a3c2be1a571b597eb38d9e15f64b325657d95098d91d89f0c66dcc1a7df,2021-09,Essex Police,Essex Police,0.43244,51.638525,On or near Parking Area,E01021237,Basildon 001A,Drugs,Local resolution
 48fcbd91cb057c5e508c2d85250282fac47ac64ea91d744135a413782b0f9e00,2021-09,Essex Police,Essex Police,0.433851,51.644647,On or near Brookside Close,E01021238,Basildon 001B,Public order,Under investigation

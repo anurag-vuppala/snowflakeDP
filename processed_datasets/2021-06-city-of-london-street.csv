@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-06,City of London Police,City of London Police,-0.106453,51.518207,On or near Charterhouse Street,E01000916,Camden 027B,Anti-social behaviour,outcome_not_available
 f0f8c98f14e0505abb6bc9e542e0f1f37f2cd6ef5b099bb5b08539e7a05d88ae,2021-06,City of London Police,City of London Police,-0.111962,51.518494,On or near Nightclub,E01000914,Camden 028B,Violence and sexual offences,Investigation complete; no suspect identified
 c_id_NA,2021-06,City of London Police,City of London Police,-0.095914,51.520348,On or near Beech Street,E01000001,City of London 001A,Anti-social behaviour,outcome_not_available

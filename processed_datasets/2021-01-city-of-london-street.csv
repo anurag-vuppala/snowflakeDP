@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-01,City of London Police,City of London Police,-0.098572,51.516767,On or near King Edward Street,E01000001,City of London 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-01,City of London Police,City of London Police,-0.097601,51.520699,On or near Carthusian Street,E01000001,City of London 001A,Anti-social behaviour,outcome_not_available
 19f06058a3b0aa0e79eabc017b48862f2a6a06645b2f5c55499c2f182a9e0aaf,2021-01,City of London Police,City of London Police,-0.098572,51.516767,On or near King Edward Street,E01000001,City of London 001A,Other theft,Investigation complete; no suspect identified

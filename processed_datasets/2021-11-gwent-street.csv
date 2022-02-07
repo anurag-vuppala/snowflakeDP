@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-11,Gwent Police,Gwent Police,-3.197188,51.794859,On or near Heol Gwyn Lliw,W01001440,Blaenau Gwent 001A,Anti-social behaviour,outcome_not_available
 b33e70a0cfdfdf0c43386b7f92490d8bd7db3f384d1186c65e0c5141b8bb440f,2021-11,Gwent Police,Gwent Police,-3.20531,51.794947,On or near Church View,W01001440,Blaenau Gwent 001A,Burglary,Under investigation
 47b9fd277494a29cc4b23a2ba25e862d23a72d419b0095e4b9d6fe846352897b,2021-11,Gwent Police,Gwent Police,-3.192296,51.799638,On or near Twyncynghordy Road,W01001440,Blaenau Gwent 001A,Drugs,Unable to prosecute suspect

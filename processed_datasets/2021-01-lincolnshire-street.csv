@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-01,Lincolnshire Police,Lincolnshire Police,0.068842,52.984053,On or near Peter Paine Close,E01026007,Boston 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-01,Lincolnshire Police,Lincolnshire Police,0.068978,52.98191,On or near Upsall Road,E01026007,Boston 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-01,Lincolnshire Police,Lincolnshire Police,0.047425,52.975666,On or near Sports/Recreation Area,E01026008,Boston 001B,Anti-social behaviour,outcome_not_available

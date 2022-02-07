@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-12,Sussex Police,Sussex Police,-0.228966,50.842877,On or near Highdown,E01031350,Adur 001B,Anti-social behaviour,outcome_not_available
 4d861ce84664beb2f4c25b032959892483c985e226911fe736e815d6acf1eb83,2021-12,Sussex Police,Sussex Police,-0.230058,50.845169,On or near Sports/Recreation Area,E01031350,Adur 001B,Burglary,Under investigation
 8ef0aa8ad4d12575955a9c6a62666fa3987833719fe302172e6b985d56022ac2,2021-12,Sussex Police,Sussex Police,-0.224451,50.839454,On or near St Louie Close,E01031350,Adur 001B,Public order,Investigation complete; no suspect identified

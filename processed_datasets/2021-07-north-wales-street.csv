@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c87d52185cc50abf1a0562f4d315cff68ab26ebfe61a63d34aef92cd03b4cbcc,2021-07,North Wales Police,North Wales Police,-2.927078,53.193331,On or near Minerva Avenue,E01018330,Cheshire West and Chester 034D,Burglary,Investigation complete; no suspect identified
 33a32d2267efe9dc8bf2db17595ba299349e5b349bbd3f71a4cb2e5104a8004a,2021-07,North Wales Police,North Wales Police,-2.925943,53.172647,On or near Halkett Close,E01018352,Cheshire West and Chester 044B,Criminal damage and arson,Status update unavailable
 c_id_NA,2021-07,North Wales Police,North Wales Police,-3.811959,53.321675,On or near Back East Parade,W01000132,Conwy 001A,Anti-social behaviour,outcome_not_available

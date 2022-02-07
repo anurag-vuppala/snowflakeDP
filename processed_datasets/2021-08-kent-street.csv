@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 8f98d0e374120bdf9a8ce59328d11fe415897e415af992351103849c9a21ade6,2021-08,Kent Police,Kent Police,0.959382,51.244093,On or near Parking Area,E01023987,Ashford 001B,Burglary,Investigation complete; no suspect identified
 8b9c730e12b9170bfd9877e9af727a47412c9c11b1e713e7e13ed282e749293c,2021-08,Kent Police,Kent Police,0.965899,51.244036,On or near Herons Close,E01023987,Ashford 001B,Other theft,Unable to prosecute suspect
 c9385bcc4e8fa9288793127abd449a55ff82cb769d1b9e3e1557b8c7b606a584,2021-08,Kent Police,Kent Police,0.969601,51.253674,On or near Cobbs Hill,E01023987,Ashford 001B,Violence and sexual offences,Unable to prosecute suspect

@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 77f81e7b4e7f518ca6ad63a757d79321c8a2b5bc1c2d2f7ac557cbf8938b44d8,2021-02,Surrey Police,Surrey Police,-0.774968,51.332407,On or near Station Approach,E01016196,Bracknell Forest 015B,Drugs,Local resolution
 42f343c56348638a86e1c1f5d3c68666778f57e2e0fa2fe85f831b709ec31f77,2021-02,Surrey Police,Surrey Police,0.017902,51.302185,On or near Bridlington Close,E01000655,Bromley 039B,Vehicle crime,Investigation complete; no suspect identified
 aed92d036cfbc439c2e893cb2401b38914d62c1a5c6161475844633f3de4c465,2021-02,Surrey Police,Surrey Police,-0.102721,51.515404,On or near St Georges'S Court,E01032740,City of London 001G,Violence and sexual offences,Status update unavailable

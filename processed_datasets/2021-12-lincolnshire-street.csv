@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-12,Lincolnshire Police,Lincolnshire Police,0.068978,52.98191,On or near Upsall Road,E01026007,Boston 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-12,Lincolnshire Police,Lincolnshire Police,0.064055,52.983938,On or near Broughton'S Lane,E01026007,Boston 001A,Anti-social behaviour,outcome_not_available
 80585be897fc60b387f90b931cc0dada8dc39a8f29efea978da79237cf9d7a36,2021-12,Lincolnshire Police,Lincolnshire Police,0.081863,52.982818,On or near Watery Lane,E01026007,Boston 001A,Violence and sexual offences,Unable to prosecute suspect

@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-02,Suffolk Constabulary,Suffolk Constabulary,0.912069,52.143253,On or near The Water Run,E01029876,Babergh 001A,Anti-social behaviour,outcome_not_available
 819a1c70cee7d4a1a07f6c434522d553acd1561fea459f95293b21a3fc8816a3,2021-02,Suffolk Constabulary,Suffolk Constabulary,0.913104,52.10962,On or near Brooksfield,E01029876,Babergh 001A,Burglary,Investigation complete; no suspect identified
 c92020a97b73361fb8c1b8337fdae7d6950b7c79ee9c3edf44b3ec717613a160,2021-02,Suffolk Constabulary,Suffolk Constabulary,0.908251,52.105755,On or near Newberry Road,E01029876,Babergh 001A,Violence and sexual offences,Unable to prosecute suspect

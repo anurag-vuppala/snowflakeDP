@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-06,Suffolk Constabulary,Suffolk Constabulary,0.903132,52.130137,On or near Sewells,E01029876,Babergh 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-06,Suffolk Constabulary,Suffolk Constabulary,0.923473,52.141514,On or near The Drive,E01029876,Babergh 001A,Anti-social behaviour,outcome_not_available
 6f9dd19653ca023c54dfc90d098c78a5d5e66dba354d2424f4b6bdd9c80394c6,2021-06,Suffolk Constabulary,Suffolk Constabulary,0.907443,52.107259,On or near Chapel Street,E01029876,Babergh 001A,Public order,Unable to prosecute suspect

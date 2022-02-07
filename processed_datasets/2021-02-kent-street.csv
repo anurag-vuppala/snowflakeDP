@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 b572bbe1a4a53a08c5f5a548884844ce429615f0c3169c471c0e0f6498a30239,2021-02,Kent Police,Kent Police,-0.260608,50.830798,On or near Bluebird Close,E01031356,Adur 005A,Violence and sexual offences,Status update unavailable
 c_id_NA,2021-02,Kent Police,Kent Police,0.965899,51.244036,On or near Herons Close,E01023987,Ashford 001B,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-02,Kent Police,Kent Police,0.962332,51.244504,On or near The Square,E01023987,Ashford 001B,Anti-social behaviour,outcome_not_available

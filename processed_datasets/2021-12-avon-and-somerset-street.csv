@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-12,Avon and Somerset Constabulary,Avon and Somerset Constabulary,-2.508675,51.410501,On or near Sports/Recreation Area,E01014399,Bath and North East Somerset 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-12,Avon and Somerset Constabulary,Avon and Somerset Constabulary,-2.511761,51.409966,On or near Caernarvon Close,E01014399,Bath and North East Somerset 001A,Anti-social behaviour,outcome_not_available
 99efdd988b1c3ec9ec39d59814fbc31826a9880637893b702289f6281d26e484,2021-12,Avon and Somerset Constabulary,Avon and Somerset Constabulary,-2.495055,51.422132,On or near Cross Street,E01014399,Bath and North East Somerset 001A,Other theft,Under investigation

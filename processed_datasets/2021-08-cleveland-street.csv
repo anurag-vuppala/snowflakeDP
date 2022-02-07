@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 446b3912221d93e1767d38eeb362839b9c92c8ffc44cad20258ef03ebe5c20aa,2021-08,Cleveland Police,Cleveland Police,-1.169239,54.500134,On or near Green Lane,E01027598,Hambleton 002A,Violence and sexual offences,Investigation complete; no suspect identified
 2bcfd81108182e2f215cb17ed0506e29f9ad35a5e8ebc239d4365812520e18e4,2021-08,Cleveland Police,Cleveland Police,-1.393747,54.483997,On or near Stobarts Lane,E01027592,Hambleton 003B,Public order,Investigation complete; no suspect identified
 c_id_NA,2021-08,Cleveland Police,Cleveland Police,-1.235446,54.71119,On or near King Oswy Drive,E01011954,Hartlepool 001A,Anti-social behaviour,outcome_not_available

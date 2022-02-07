@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-07,Gwent Police,Gwent Police,-3.193791,51.798553,On or near South Bank,W01001440,Blaenau Gwent 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-07,Gwent Police,Gwent Police,-3.19344,51.800643,On or near Big Lane,W01001440,Blaenau Gwent 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-07,Gwent Police,Gwent Police,-3.199349,51.796518,On or near Swan Crescent,W01001440,Blaenau Gwent 001A,Anti-social behaviour,outcome_not_available

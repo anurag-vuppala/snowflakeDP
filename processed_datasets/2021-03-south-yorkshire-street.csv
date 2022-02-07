@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-03,South Yorkshire Police,South Yorkshire Police,-1.395616,53.052967,On or near Petrol Station,E01019456,Amber Valley 005E,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-03,South Yorkshire Police,South Yorkshire Police,-1.452188,53.595966,On or near Chantry Grove,E01007434,Barnsley 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-03,South Yorkshire Police,South Yorkshire Police,-1.457372,53.597077,On or near Jesmond Avenue,E01007434,Barnsley 001A,Anti-social behaviour,outcome_not_available

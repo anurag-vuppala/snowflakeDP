@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 16f1a657f13609a0278d0b81a83037599a1491c61e0bf80edd7f44e3db9d2b34,2021-03,Northamptonshire Police,Northamptonshire Police,-0.878021,52.026429,On or near Thornton Road,E01032960,Aylesbury Vale 001F,Burglary,Investigation complete; no suspect identified
 c_id_NA,2021-03,Northamptonshire Police,Northamptonshire Police,-0.486976,52.275088,On or near Park/Open Space,E01017545,Bedford 001D,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-03,Northamptonshire Police,Northamptonshire Police,-0.387163,52.211161,On or near Chapel Lane,E01017543,Bedford 004E,Anti-social behaviour,outcome_not_available

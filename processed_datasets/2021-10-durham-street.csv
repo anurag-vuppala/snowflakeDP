@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 f6d5f8c68f73f34982e2239b5eed031810f6cb6fca10ded54f13ea5f081eeebd,2021-10,Durham Constabulary,Durham Constabulary,0.15412,51.561849,On or near Gosfield Road,E01000061,Barking and Dagenham 006C,Violence and sexual offences,Under investigation
 6a6f3d59dd7f8f7f90ea3e6e101b17b4f00e5c406c31dc71f301c1157a3a0ad2,2021-10,Durham Constabulary,Durham Constabulary,0.521041,51.62009,On or near Ethelred Gardens,E01021334,Basildon 005A,Violence and sexual offences,Under investigation
 c_id_NA,2021-10,Durham Constabulary,Durham Constabulary,-3.583397,51.508463,On or near The Square,W01001028,Bridgend 014D,Anti-social behaviour,outcome_not_available

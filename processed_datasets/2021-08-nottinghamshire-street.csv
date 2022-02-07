@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-08,Nottinghamshire Police,Nottinghamshire Police,-1.37467,53.090092,On or near Monk Road,E01019471,Amber Valley 003E,Anti-social behaviour,outcome_not_available
 9e7615e27671dfd467a5b9791d52e11cee9a2c5835bdf57e78c03a1d743936fe,2021-08,Nottinghamshire Police,Nottinghamshire Police,-1.400636,53.075034,On or near B6016,E01019475,Amber Valley 004E,Violence and sexual offences,Under investigation
 a8f77c10fb0bcb62f32873cc5d4bccbd4bd4df5ded1d98ba871d18d3bd3be9cc,2021-08,Nottinghamshire Police,Nottinghamshire Police,-1.407005,53.046066,On or near Emmas Williams Court,E01019463,Amber Valley 008F,Violence and sexual offences,Under investigation

@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-12,Thames Valley Police,Thames Valley Police,-0.980491,51.999254,On or near Moorhen Way,E01017648,Aylesbury Vale 001A,Anti-social behaviour,outcome_not_available
 106a852290094605e1ad63825ef49ef469c10122a34af33dabca1f99e54022b3,2021-12,Thames Valley Police,Thames Valley Police,-0.974254,51.993005,On or near Robin Close,E01017648,Aylesbury Vale 001A,Other theft,Under investigation
 ea3576206b5dfd8e09a418ead9b255146bde20074897d480573e3cc90ecfc9e0,2021-12,Thames Valley Police,Thames Valley Police,-0.981671,51.998626,On or near Treefields,E01017648,Aylesbury Vale 001A,Public order,Under investigation

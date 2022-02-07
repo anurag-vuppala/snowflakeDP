@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-04,Cheshire Constabulary,Cheshire Constabulary,0.156321,51.47322,On or near Wheelock Close,E01000441,Bexley 007E,Anti-social behaviour,outcome_not_available
 5fd60c1b6a7658e5e12292061a61921bc53739397090df53cf597edc45d6b5fd,2021-04,Cheshire Constabulary,Cheshire Constabulary,-2.031858,53.356818,On or near Heysbank Road,E01018585,Cheshire East 001A,Violence and sexual offences,Unable to prosecute suspect
 c_id_NA,2021-04,Cheshire Constabulary,Cheshire Constabulary,-2.012417,53.359096,On or near Maple Avenue,E01018586,Cheshire East 001B,Anti-social behaviour,outcome_not_available

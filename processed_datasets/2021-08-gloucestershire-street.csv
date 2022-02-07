@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-08,Gloucestershire Constabulary,Gloucestershire Constabulary,-2.088232,51.915054,On or near Windyridge Road,E01022163,Cheltenham 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-08,Gloucestershire Constabulary,Gloucestershire Constabulary,-2.088832,51.916932,On or near Seneca Way,E01022163,Cheltenham 001A,Anti-social behaviour,outcome_not_available
 c_id_NA,2021-08,Gloucestershire Constabulary,Gloucestershire Constabulary,-2.088539,51.915962,On or near Medoc Close,E01022163,Cheltenham 001A,Anti-social behaviour,outcome_not_available

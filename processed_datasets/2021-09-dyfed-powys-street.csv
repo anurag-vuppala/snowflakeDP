@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-09,Dyfed-Powys Police,Dyfed-Powys Police,-4.311763,52.037656,On or near Petrol Station,W01000685,Carmarthenshire 001A,Anti-social behaviour,outcome_not_available
 d305d93d08d073429f0b6dce283d4429ad191c9e6c8342dc56be1648dfd5aae5,2021-09,Dyfed-Powys Police,Dyfed-Powys Police,-4.263896,52.00713,On or near B4459,W01000685,Carmarthenshire 001A,Criminal damage and arson,Investigation complete; no suspect identified
 b12691c39914cb93fd36c1cbf7a261dcfc827119617db107ab29039e4248b775,2021-09,Dyfed-Powys Police,Dyfed-Powys Police,-4.196135,52.039428,On or near Bryndulais,W01000686,Carmarthenshire 001B,Burglary,Investigation complete; no suspect identified

@@ -1,4 +1,3 @@
-Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Crime type,Last outcome category
 c_id_NA,2021-06,Lincolnshire Police,Lincolnshire Police,-0.775772,53.266281,On or near Marsh Lane,E01028039,Bassetlaw 015F,Anti-social behaviour,outcome_not_available
 2f2a93560248a68960cb4b60cf024a16a50706b15a56bb405e28a417ef14dfe6,2021-06,Lincolnshire Police,Lincolnshire Police,0.068842,52.984053,On or near Peter Paine Close,E01026007,Boston 001A,Public order,Unable to prosecute suspect
 30426d183ae16f3e9b02c8f3dcb704b9f701e69f51b5fbfbfed37a33c3599eb6,2021-06,Lincolnshire Police,Lincolnshire Police,0.081863,52.982818,On or near Watery Lane,E01026007,Boston 001A,Violence and sexual offences,Unable to prosecute suspect
