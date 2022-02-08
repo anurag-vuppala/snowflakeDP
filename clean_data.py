@@ -6,12 +6,16 @@ def clean_dataset(data):
     
     data['Last outcome category'].fillna("outcome_not_available", inplace = True)
     
-    print('Empty cells filled with respective values')
+    print('~~Empty values replaced!!')
     
     data.drop(['Context'],axis = 1, inplace = True)
     
+    print('~~Dataset Cleaned')
+    
+    data= data.replace(',','',regex=True)
+    
     data.drop_duplicates(inplace=True)
     
-    print('unnecessary Columns removed')
+    print('~~Duplicated Entries Removed')
     
     return data
