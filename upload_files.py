@@ -1,14 +1,12 @@
 #!/usr/bin/env python
 import snowflake.connector
 import pandas as pd
-import numpy as np
-from snowflake.connector.pandas_tools import write_pandas
-from snowflake.connector.pandas_tools import pd_writer
-###
-# https://docs.snowflake.com/en/user-guide/python-connector-example.html
+#### https://docs.snowflake.com/en/user-guide/python-connector-example.html
 from glob import glob
-
 from clean_data import clean_dataset
+
+
+
 
 
 
