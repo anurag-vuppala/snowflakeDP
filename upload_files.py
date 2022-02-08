@@ -80,7 +80,7 @@ print('Warehouse and Database Created and in USE...........')
 
 
 print('Table Creates/IN-USE............')
-c.execute('CREATE TABLE IF NOT EXISTS "CRIME_DATA_TABLE" (crime_id STRING, month STRING, reported_by STRING, fall_within STRING, longitude FLOAT, latitude FLOAT, location STRING, lsoa_code STRING, lsoa_name STRING, crime_type STRING, last_outcome STRING) unique_id FLOAT constraint unique_id primary key not enforced')
+c.execute('CREATE TABLE IF NOT EXISTS "CRIME_DATA_TABLE" (crime_id STRING, month STRING, reported_by STRING, fall_within STRING, longitude FLOAT, latitude FLOAT, location STRING, lsoa_code STRING, lsoa_name STRING, crime_type STRING, last_outcome STRING, id integer not null constraint unique_id primary key not enforced)')
 
 print('Stagging files...............')
 c.execute("PUT file://processed_datasets/20*.csv @%crime_data_table")
