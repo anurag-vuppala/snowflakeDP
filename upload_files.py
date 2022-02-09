@@ -27,7 +27,7 @@ for file in filenames:
     #Cleaning the data base for null values and replacing the with corrresponing valuse and droping unwanted columns
     
     data=ET_load(data)
-    
+     
     print('Cleaned file ==>',file)
     
     
@@ -103,7 +103,7 @@ crime_count_bytype = c.execute("SELECT crime_type,COUNT(crime_type) FROM CRIME_D
 print(crime_count_bytype)
 
 crime_count_bystreet = c.execute("SELECT location,COUNT(crime_type) FROM CRIME_DATA_TABLE GROUP BY location ORDER BY COUNT(crime_type) DESC; ").fetchall()
-print(crime_count_bystreet)
+print(len(crime_count_bystreet))
 
 
 con.close() 
