@@ -3,7 +3,7 @@ import snowflake.connector
 import pandas as pd
 #### https://docs.snowflake.com/en/user-guide/python-connector-example.html
 from glob import glob
-from clean_data import clean_dataset
+from ETL import ET_load
 
 
 
@@ -26,7 +26,7 @@ for file in filenames:
     
     #Cleaning the data base for null values and replacing the with corrresponing valuse and droping unwanted columns
     
-    data=clean_dataset(data)
+    data=ET_load(data)
     
     print('Cleaned file ==>',file)
     
