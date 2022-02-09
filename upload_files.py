@@ -17,7 +17,7 @@ print(len(filenames))
 
 
 
-
+c = '#'
 for file in filenames:
     # Read the data files individually 
     data = pd.read_csv(file)
@@ -38,7 +38,9 @@ for file in filenames:
     data.to_csv(p,header=None,index=False)
     
     print('Saving File ==>',file)
-    print('#########################################################################################################################')
+    c= c + '#'
+    print(c)
+    
     
     
 
