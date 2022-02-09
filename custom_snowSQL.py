@@ -8,7 +8,7 @@ from snowflake.connector.pandas_tools import pd_writer
 # https://docs.snowflake.com/en/user-guide/python-connector-example.html
 from glob import glob
 
-from clean_data import clean_dataset
+from ETL import ET_load
 
 
 
@@ -32,7 +32,8 @@ c.execute('USE DATABASE STREET_CRIME_DB')
 c.execute('USE SCHEMA PUBLIC')
 
 
-output = c.execute('''                                  ''')
+output = c.execute('''                                  ''').fetchall()
+print(output)
 
 con.close()
 
