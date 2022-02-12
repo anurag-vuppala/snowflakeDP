@@ -107,7 +107,8 @@ print(crime_count_bytype)
 crime_count_bystreet = c.execute("SELECT location,COUNT(crime_type) FROM CRIME_DATA_TABLE GROUP BY location ORDER BY COUNT(crime_type) DESC; ").fetchall()
 print(len(crime_count_bystreet))
 
-
+ crime_count_bystreet.to_csv('crime')
+ 
 con.close() 
 
 print('________________________________________________________________________DATABASE CONNECTION CLOSED_____________________________________________________________________________________')   
